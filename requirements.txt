@@ -8,5 +8,5 @@ xgboost
 Flask
 imbalanced-learn
 dill
-pickle
+#pickle
 #-e .
