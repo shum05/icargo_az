@@ -1,0 +1,225 @@
+gender,race_ethnicity,level_of_education,language_proficiency,training_manuals,pre_exams_average,Certification_exam_Outcome
+female,group D,associate's degree,intermediate,none,65.0,0
+female,group D,high school,fluent,provided,79.0,1
+female,group B,some college,fluent,none,88.0,1
+male,group C,some college,fluent,none,44.0,0
+female,group D,,intermediate,none,83.0,1
+male,group C,high school,fluent,provided,95.0,1
+male,group C,some high school,fluent,none,49.0,0
+female,group C,some college,fluent,provided,94.0,1
+female,group D,associate's degree,intermediate,provided,89.0,1
+female,group C,some high school,intermediate,none,52.0,0
+male,group C,high school,intermediate,none,59.0,0
+male,group C,associate's degree,fluent,none,96.0,1
+female,group B,some college,fluent,provided,95.0,1
+female,group B,some college,intermediate,provided,69.0,0
+male,group C,high school,intermediate,none,66.0,1
+female,group B,high school,intermediate,provided,57.0,0
+female,group C,high school,limitted,provided,66.0,0
+male,group B,associate's degree,fluent,none,84.0,1
+female,group D,high school,fluent,none,90.0,1
+male,group A,associate's degree,fluent,none,65.0,0
+male,group C,associate's degree,fluent,none,65.0,0
+male,group C,high school,intermediate,provided,48.0,0
+male,group E,some high school,intermediate,provided,68.0,1
+female,group D,some college,fluent,,58.0,0
+female,group E,associate's degree,fluent,none,74.0,1
+male,group D,high school,intermediate,none,50.0,0
+female,group C,high school,fluent,none,87.0,1
+female,group B,some college,intermediate,provided,58.0,0
+male,group C,some college,fluent,none,81.0,1
+female,group D,some high school,fluent,none,81.0,1
+male,group B,master's degree,intermediate,none,55.0,0
+female,group C,some high school,fluent,none,74.0,1
+male,group C,associate's degree,fluent,provided,98.0,1
+male,group D,high school,fluent,none,87.0,1
+female,group B,some college,fluent,none,66.0,0
+male,group C,associate's degree,fluent,provided,80.0,1
+male,group C,high school,fluent,provided,86.0,1
+female,group B,some college,fluent,none,69.0,0
+female,group C,some college,intermediate,none,38.0,0
+male,group B,some high school,fluent,none,66.0,1
+male,group E,associate's degree,intermediate,provided,73.0,1
+female,group C,high school,fluent,none,72.0,0
+female,group B,master's degree,intermediate,,,0
+male,group D,high school,fluent,none,49.0,0
+male,group B,some college,fluent,none,55.0,0
+female,group B,high school,intermediate,provided,79.0,1
+female,group C,associate's degree,fluent,none,55.0,0
+male,group A,associate's degree,intermediate,provided,84.0,1
+male,group B,associate's degree,fluent,none,77.0,1
+male,group E,associate's degree,fluent,none,73.0,1
+male,group C,high school,fluent,none,88.0,1
+female,group C,high school,fluent,none,88.0,1
+female,group C,associate's degree,fluent,none,94.0,1
+male,group D,associate's degree,fluent,none,77.0,1
+male,group C,high school,intermediate,provided,73.0,1
+female,group D,some high school,fluent,none,66.0,0
+female,group C,,fluent,provided,84.0,1
+male,group C,associate's degree,intermediate,none,60.0,0
+female,group C,some high school,limitted,none,14.0,0
+male,group D,some high school,fluent,provided,74.0,1
+female,group D,some high school,fluent,none,75.0,1
+male,group C,high school,fluent,provided,89.0,1
+male,group C,bachelor's degree,fluent,none,56.0,0
+male,group D,some college,intermediate,provided,66.0,1
+male,group A,associate's degree,fluent,none,54.0,0
+female,group D,some college,fluent,none,87.0,1
+male,group D,some college,fluent,none,65.0,1
+male,group D,high school,fluent,none,70.0,1
+female,group D,high school,intermediate,provided,100.0,1
+female,group C,bachelor's degree,fluent,none,74.0,1
+female,group C,some college,limitted,none,36.0,0
+male,group E,some high school,fluent,none,28.0,0
+male,group D,high school,intermediate,none,69.0,0
+female,group D,some high school,intermediate,none,83.0,1
+female,group E,some college,fluent,none,77.0,1
+male,group E,associate's degree,intermediate,none,46.0,0
+female,group A,high school,intermediate,provided,57.0,0
+female,group B,bachelor's degree,intermediate,none,81.0,1
+female,group C,high school,intermediate,none,68.0,0
+male,group D,associate's degree,fluent,none,49.0,0
+female,group D,some college,intermediate,none,84.0,1
+female,group D,high school,fluent,none,93.0,1
+male,group D,high school,intermediate,none,49.0,0
+other,group A,high school,intermediate,provided,45.0,0
+female,group B,high school,intermediate,none,65.0,0
+male,group D,some high school,fluent,none,76.0,1
+male,group B,high school,intermediate,none,25.0,0
+male,group E,high school,fluent,none,76.0,1
+male,group E,high school,fluent,provided,69.0,1
+male,group B,some college,intermediate,none,53.0,0
+female,group D,some college,fluent,none,76.0,1
+male,group A,high school,intermediate,provided,60.0,0
+male,group C,some college,intermediate,none,59.0,1
+female,group C,high school,fluent,provided,99.0,1
+female,group D,some high school,fluent,provided,80.0,1
+male,group C,associate's degree,intermediate,provided,84.0,1
+female,group B,high school,intermediate,none,71.0,0
+male,group E,high school,fluent,none,69.0,1
+male,group B,some high school,fluent,none,66.0,1
+female,group D,associate's degree,intermediate,none,57.0,0
+male,group D,high school,fluent,none,89.0,1
+male,group B,associate's degree,fluent,provided,85.0,1
+female,group B,high school,fluent,provided,77.0,1
+female,group B,some college,fluent,none,90.0,1
+male,group D,high school,fluent,none,88.0,1
+female,group B,associate's degree,fluent,none,66.0,0
+male,group D,some high school,fluent,none,82.0,1
+male,group C,high school,limitted,none,36.0,0
+female,group C,associate's degree,fluent,provided,84.0,1
+female,group C,high school,intermediate,none,61.0,0
+male,group C,high school,intermediate,provided,72.0,0
+female,group C,high school,fluent,provided,64.0,0
+male,group D,some college,fluent,none,63.0,1
+female,group C,high school,fluent,provided,75.0,0
+female,group E,master's degree,fluent,none,92.0,1
+male,group E,associate's degree,intermediate,provided,100.0,1
+female,group C,high school,intermediate,none,56.0,0
+male,group D,associate's degree,intermediate,none,56.0,0
+female,group B,bachelor's degree,fluent,none,72.0,0
+female,group B,some high school,fluent,none,85.0,1
+female,group D,some college,intermediate,none,79.0,1
+male,group C,high school,intermediate,none,66.0,0
+male,group C,some high school,intermediate,none,64.0,1
+female,group D,high school,fluent,none,101.0,1
+male,group D,some college,fluent,provided,61.0,0
+female,group C,bachelor's degree,fluent,none,74.0,1
+male,group B,some college,intermediate,none,63.0,0
+male,group C,high school,fluent,none,62.0,1
+male,group C,some high school,fluent,none,63.0,0
+female,group A,high school,fluent,none,72.0,0
+male,group E,high school,intermediate,none,57.0,0
+female,group B,high school,intermediate,none,54.0,0
+male,group C,some college,fluent,none,61.0,1
+female,group D,associate's degree,intermediate,none,59.0,0
+female,group C,some high school,fluent,provided,77.0,1
+female,group C,associate's degree,fluent,none,71.0,0
+male,group C,high school,fluent,none,59.0,0
+male,group D,high school,intermediate,none,71.0,1
+female,group C,bachelor's degree,fluent,none,95.0,1
+female,group C,associate's degree,intermediate,none,75.0,0
+female,group E,associate's degree,fluent,none,88.0,1
+female,group C,associate's degree,fluent,provided,81.0,1
+female,group C,some college,fluent,none,71.0,0
+male,group B,some college,fluent,none,46.0,0
+other,group A,some college,fluent,provided,89.0,1
+male,group E,associate's degree,intermediate,provided,99.0,1
+female,group C,associate's degree,fluent,provided,99.0,1
+female,group D,master's degree,fluent,provided,87.0,1
+male,group C,high school,fluent,none,71.0,1
+male,group A,high school,fluent,none,63.0,0
+male,group E,some college,fluent,none,52.0,0
+male,group E,high school,fluent,none,79.0,1
+female,group B,associate's degree,intermediate,none,72.0,0
+female,group C,associate's degree,fluent,none,96.0,1
+male,group C,some high school,intermediate,none,60.0,0
+female,group E,associate's degree,fluent,none,67.0,0
+male,group A,some high school,intermediate,none,61.0,1
+female,group C,some college,fluent,none,89.0,1
+female,group B,some high school,fluent,none,84.0,1
+male,group C,some high school,fluent,none,52.0,0
+male,group E,high school,fluent,provided,100.0,1
+female,group C,some college,fluent,none,91.0,1
+female,group D,associate's degree,fluent,none,69.0,0
+female,group D,high school,fluent,none,66.0,0
+female,group D,high school,intermediate,provided,97.0,1
+female,group C,some high school,intermediate,none,82.0,1
+female,group C,high school,intermediate,none,47.0,0
+male,group E,high school,fluent,none,66.0,1
+male,group D,high school,intermediate,none,72.0,1
+female,group E,some college,fluent,none,98.0,1
+female,group D,high school,fluent,none,83.0,1
+male,group D,high school,fluent,none,45.0,0
+female,group D,high school,fluent,provided,79.0,1
+male,group A,high school,fluent,none,50.0,0
+male,group D,some high school,fluent,none,82.0,1
+female,group B,some high school,fluent,provided,63.0,0
+female,group A,some high school,fluent,none,65.0,0
+male,group D,associate's degree,fluent,provided,72.0,1
+male,group C,some high school,fluent,none,60.0,0
+female,group D,high school,fluent,none,65.0,0
+female,group E,some college,fluent,provided,75.0,1
+female,group E,associate's degree,fluent,provided,77.0,1
+male,group C,high school,fluent,provided,74.0,1
+female,group C,bachelor's degree,fluent,provided,94.0,1
+male,group E,high school,intermediate,provided,83.0,1
+male,group C,high school,fluent,none,81.0,1
+female,group C,associate's degree,fluent,provided,83.0,1
+male,group D,bachelor's degree,intermediate,provided,79.0,1
+male,group D,some high school,fluent,provided,89.0,1
+female,group D,high school,fluent,none,68.0,1
+female,group B,bachelor's degree,intermediate,none,85.0,1
+male,group E,associate's degree,fluent,provided,90.0,1
+female,group E,some college,intermediate,none,60.0,0
+male,group C,high school,intermediate,none,68.0,0
+female,group D,some college,fluent,provided,78.0,1
+male,group A,high school,fluent,none,54.0,0
+male,group C,some college,intermediate,provided,74.0,1
+male,group A,some high school,intermediate,provided,64.0,0
+female,group E,some college,fluent,none,81.0,1
+female,group C,associate's degree,fluent,none,68.0,0
+male,group B,some college,intermediate,none,40.0,0
+female,group A,high school,fluent,none,53.0,0
+female,group B,associate's degree,fluent,none,80.0,1
+female,group B,bachelor's degree,fluent,none,84.0,1
+male,group A,some college,intermediate,none,80.0,1
+male,group C,high school,fluent,none,79.0,1
+male,group E,some college,fluent,none,55.0,0
+male,group B,some college,fluent,provided,85.0,1
+female,group C,high school,fluent,provided,75.0,0
+female,group C,some high school,fluent,provided,54.0,0
+male,group C,some high school,intermediate,provided,44.0,0
+male,group C,high school,fluent,provided,70.0,1
+female,group B,some high school,intermediate,provided,89.0,1
+female,group D,some college,intermediate,none,69.0,0
+female,group B,high school,fluent,provided,87.0,1
+female,group E,associate's degree,fluent,provided,94.0,1
+female,group B,associate's degree,fluent,provided,84.0,0
+male,group B,associate's degree,fluent,none,85.0,1
+male,group C,high school,limitted,,36.0,0
+female,group C,bachelor's degree,fluent,provided,70.0,0
+female,group B,bachelor's degree,fluent,none,67.0,0
+male,group B,high school,intermediate,none,49.0,0
+female,group C,some college,fluent,none,75.0,0
+male,group E,high school,fluent,provided,89.0,1

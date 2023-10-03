@@ -1,0 +1,134 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="favicon.ico" type="image/x-icon">
+        <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+        <title>Cargo Classifier</title>
+       
+    </head>
+<body style="display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background-color: #f0f0f0;">
+    <div class="login">
+       <h1 style= "color:green">Cargo Screener Certification Result Classifier</h1>
+   
+       <form style="background-color: cyan;" action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1 style= "color:blue">
+            <legend>Cargo Screener Certification Result Classifier</legend>
+        </h1>
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select class="form-control" name="gender" placeholder="Enter you Gender" required>
+                <option class="placeholder" selected disabled value="">Select Examinee's Gender</option>
+                <option value="male">
+                    male
+                </option>
+                <option value="female">
+                    female
+                </option>
+            </select>
+        </div>
+        <br>
+        <br>
+        <div class="mb-3">
+            <label class="form-label">Race or Ethnicity</label>
+            <select class="form-control" name="race_ethnicity" placeholder="Enter you ethnicity" required>
+                <option class="placeholder" selected disabled value="">Select Race/Ethnicity</option>
+                <option value="group A">
+                    group A
+                </option>
+                <option value="group B">
+                    group B
+                </option>
+                <option value="group C">
+                    group C
+                </option>
+                <option value="group D">
+                    group D
+                </option>
+                <option value="group E">
+                    group E
+                </option>
+            </select>
+        </div>
+        <br>
+        <br>
+        <div class="mb-3">
+            <label class="form-label">Level of Education</label>
+            <select class="form-control" name="level_of_education"
+                placeholder="Enter you level Education" required>
+                <option class="placeholder" selected disabled value="">Select Examinee's level of Education</option>
+                <option value="associate's degree">
+                    associate's degree
+                </option>
+                <option value="bachelor's degree">
+                    bachelor's degree
+                </option>
+                <option value="high school">
+                    high school
+                </option>
+                <option value="master's degree">
+                    master's degree
+                </option>
+                <option value="some college">
+                    some college
+                </option>
+                <option value="some high school">
+                    some high school
+                </option>
+            </select>
+        </div>
+        <br>
+        <br>
+        <div class="mb-3">
+            <label class="form-label">language proficiency</label>
+            <select class="form-control" name="language_proficiency" placeholder="Enter your Language profeciency" required>
+                <option class="placeholder" selected disabled value="">Select Examinee'sLanguage profeciency</option>
+                <option value="fluent">
+                    fluent
+                </option>
+                <option value="intermediate">
+                    intermediate
+                </option>
+                <option value="limitted">
+                    limitted
+                </option>
+            </select>
+        </div>
+        <br>
+        <br>
+        <div class="mb-3">
+            <label class="form-label">Training Manuals</label>
+            <select class="form-control" name="training_manuals" placeholder="Enter yourtraining manuals provision"
+                required>
+                <option class="placeholder" selected disabled value="">Select training manuals provision</option>
+                <option value="none">
+                    none
+                </option>
+                <option value="provided">
+                    provided
+                </option>
+            </select>
+        </div>
+        <br>
+        <br>
+        <div class="mb-3">
+            <label class="form-label">pre_exam average score</label>
+            <input class="form-control" type="number" name="pre_exams_average"
+                placeholder="Enter your Reading score" min='0' max='100' />
+        </div>
+        <br>
+        <br>
+        <div class="mb-3">
+            <input style="padding: 10px 20px; background-color: #3498db; color: white; border: 1px solid #2980b9; border-radius: 5px; box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2); font-size: 16px;" class="btn btn-primary" type="submit" value="Predict Cert Exam PASS/FAIL" required />
+        </div>
+        
+        
+    </form>
+    <br>
+    <br>
+    <h1 style= "color:red" >
+       The  prediction shows that this trainee will: {{results}}
+    </h1>
+   <body>
+</html> 
+

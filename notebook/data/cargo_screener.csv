@@ -1,0 +1,1601 @@
+gender,race_ethnicity,level_of_education,language_proficiency,training_manuals,hr_interview_score,x_ray_module_assessment_score,etd_module_assessment_score,phy_module_assessment_score,dg_module_assessment_score,tsa_test_score,cbp_test_score,Certification_exam_Outcome
+male,group A,high school,fluent,none,63,74,63,69,66,63,62,FAIL
+female,group E,some college,intermediate,provided,83,95,83,89,89,88,85,PASS
+male,group A,some college,fluent,none,46,58,46,52,47,43,43,FAIL
+female,group E,some college,fluent,provided,71,83,71,77,76,74,73,PASS
+male,group E,some college,fluent,none,68,80,68,74,72,72,65,PASS
+male,group B,high school,fluent,none,57,68,57,63,59,55,54,FAIL
+female,group E,some college,intermediate,provided,50,62,50,56,56,55,54,FAIL
+female,group D,some high school,fluent,none,59,70,59,65,62,58,59,FAIL
+male,group C,high school,fluent,none,68,80,68,74,71,67,67,PASS
+male,group C,some college,fluent,provided,91,100,91,97,92,86,90,PASS
+female,group C,high school,fluent,provided,97,100,97,100,102,100,99,PASS
+female,group E,high school,intermediate,provided,97,100,97,100,102,100,100,PASS
+female,group B,high school,fluent,provided,83,95,83,89,88,82,89,PASS
+female,group C,some college,intermediate,none,82,94,82,88,88,83,88,PASS
+male,group B,some high school,fluent,none,69,80,69,75,71,68,67,PASS
+male,group B,high school,intermediate,none,71,83,71,77,76,77,70,PASS
+female,group D,high school,intermediate,none,71,83,71,77,77,73,78,FAIL
+female,group D,,intermediate,,53,65,53,59,59,56,57,FAIL
+male,group D,high school,fluent,none,48,60,48,54,54,52,51,FAIL
+female,group C,some college,fluent,provided,80,85,75,81,79,72,76,PASS
+female,group D,some high school,fluent,none,80,92,80,86,86,86,82,PASS
+female,group D,high school,fluent,none,67,79,67,73,73,70,73,FAIL
+female,group B,associate's degree,intermediate,provided,86,98,86,92,92,94,87,PASS
+female,group B,some high school,fluent,none,79,92,79,85,87,89,82,PASS
+male,group D,high school,intermediate,provided,69,80,69,75,71,68,66,PASS
+female,group D,some college,fluent,none,86,98,86,92,92,90,89,PASS
+male,group C,high school,intermediate,none,47,59,47,53,53,56,47,FAIL
+female,group B,high school,intermediate,none,81,93,81,87,86,85,82,PASS
+male,group A,some college,intermediate,none,58,70,58,64,62,60,57,FAIL
+female,group D,some high school,fluent,none,81,93,81,87,87,84,85,PASS
+female,group D,high school,fluent,none,80,91,80,86,84,81,80,PASS
+female,group E,some college,fluent,none,73,85,73,79,78,76,75,PASS
+male,group A,high school,intermediate,none,66,78,66,72,71,72,65,FAIL
+male,group B,some college,intermediate,provided,76,87,76,82,80,77,76,PASS
+female,group C,some high school,fluent,none,56,68,56,62,62,63,56,FAIL
+male,group C,high school,intermediate,none,55,66,55,61,57,53,52,FAIL
+female,group D,some college,fluent,none,49,64,49,55,69,74,74,FAIL
+male,group D,some college,fluent,none,82,94,82,88,86,82,84,PASS
+male,group C,high school,fluent,none,73,71,73,,75,72,69,PASS
+female,group E,some college,fluent,none,96,107,96,100,98,92,97,PASS
+female,group B,high school,fluent,none,73,85,73,79,79,81,73,PASS
+female,group D,associate's degree,fluent,none,79,91,79,85,84,81,83,PASS
+male,group A,high school,fluent,none,71,82,71,77,72,67,68,PASS
+male,group D,high school,intermediate,,47,58,47,53,49,42,48,FAIL
+male,group B,associate's degree,fluent,none,82,93,82,88,83,85,73,PASS
+female,group B,,fluent,none,83,95,83,89,87,86,83,PASS
+male,group B,associate's degree,fluent,none,48,59,48,54,47,42,41,FAIL
+female,group B,high school,fluent,provided,65,77,65,71,71,70,68,FAIL
+female,group B,some high school,fluent,none,69,80,69,75,72,64,72,PASS
+female,group C,high school,intermediate,none,55,68,55,61,63,62,61,FAIL
+female,group C,high school,fluent,none,75,87,75,81,78,76,74,PASS
+male,group C,high school,intermediate,provided,70,81,70,76,73,66,72,PASS
+female,group C,some college,fluent,none,89,101,89,95,94,90,94,PASS
+male,group A,some college,intermediate,provided,50,62,50,56,54,47,54,FAIL
+male,group A,high school,fluent,none,49,60,49,55,50,43,47,FAIL
+male,group C,associate's degree,intermediate,,50,62,50,56,54,51,51,FAIL
+female,group D,some college,fluent,,54,66,54,60,59,58,54,FAIL
+female,group A,some high school,intermediate,none,41,53,41,47,46,43,43,FAIL
+female,group D,high school,fluent,none,65,76,65,71,68,67,62,PASS
+female,group C,high school,fluent,provided,60,72,60,66,66,61,66,FAIL
+male,group C,high school,fluent,none,64,75,64,70,65,60,61,PASS
+female,group B,high school,fluent,none,68,80,68,74,73,72,70,FAIL
+male,group B,high school,fluent,provided,49,60,49,55,51,49,46,FAIL
+female,group E,some college,intermediate,none,56,68,56,62,60,58,57,FAIL
+female,group C,some college,fluent,provided,91,100,91,97,96,93,93,PASS
+female,group E,associate's degree,intermediate,provided,66,78,66,72,72,68,73,FAIL
+female,group C,some high school,fluent,provided,50,62,50,56,55,51,55,FAIL
+male,group C,high school,fluent,provided,68,79,68,74,70,67,64,PASS
+female,group E,high school,intermediate,none,65,76,65,71,68,62,68,FAIL
+male,group D,associate's degree,fluent,provided,85,97,85,91,88,84,85,PASS
+male,group C,associate's degree,intermediate,none,57,68,57,63,61,61,54,FAIL
+male,group B,high school,intermediate,none,62,73,62,68,62,56,57,PASS
+female,group D,high school,intermediate,none,51,63,51,57,58,59,54,FAIL
+female,group E,high school,fluent,none,40,52,40,46,44,45,38,FAIL
+female,group B,high school,fluent,none,57,69,57,63,63,62,60,FAIL
+female,group D,some college,fluent,none,82,94,82,88,86,86,81,PASS
+female,group C,associate's degree,fluent,none,66,78,66,72,72,73,68,FAIL
+male,group C,high school,fluent,none,62,74,62,68,66,67,58,FAIL
+female,group D,associate's degree,fluent,none,65,77,65,71,70,70,65,FAIL
+male,group D,some high school,intermediate,none,54,65,54,60,55,49,52,FAIL
+female,group D,high school,fluent,provided,77,89,77,83,82,76,83,PASS
+female,group A,high school,fluent,none,54,65,54,60,58,53,58,FAIL
+female,group E,high school,intermediate,provided,73,85,73,79,78,74,78,PASS
+male,group C,some high school,fluent,none,60,72,60,66,63,64,55,FAIL
+female,group B,high school,fluent,provided,76,88,76,82,83,81,81,PASS
+female,group C,some college,fluent,none,66,78,66,72,72,67,72,FAIL
+male,group C,associate's degree,fluent,provided,78,89,78,84,80,75,77,PASS
+female,group C,some college,fluent,none,76,87,76,82,80,76,78,PASS
+male,group C,associate's degree,fluent,none,94,105,94,100,96,93,91,PASS
+female,group E,associate's degree,fluent,provided,84,96,84,90,88,85,86,PASS
+male,group B,some high school,fluent,none,82,94,82,88,84,84,75,PASS
+male,group D,high school,fluent,none,54,65,54,60,56,50,54,FAIL
+female,group E,,intermediate,none,60,72,60,66,63,58,62,FAIL
+female,group B,high school,intermediate,none,69,81,69,75,74,73,71,FAIL
+female,group C,high school,intermediate,provided,49,61,49,55,55,51,54,FAIL
+female,group E,high school,fluent,none,49,61,49,55,52,50,47,FAIL
+male,group B,associate's degree,fluent,none,75,87,75,81,77,73,72,PASS
+female,group B,high school,fluent,provided,76,88,76,82,82,83,78,PASS
+male,group D,high school,fluent,none,66,78,66,72,69,69,63,PASS
+female,group D,some college,intermediate,none,71,83,71,77,77,74,75,FAIL
+male,group C,some college,intermediate,provided,70,82,70,76,75,74,70,PASS
+female,group D,high school,fluent,provided,75,87,75,81,80,75,81,PASS
+male,group A,associate's degree,intermediate,none,59,71,59,65,62,61,55,FAIL
+female,group C,some high school,fluent,none,77,89,77,83,81,75,82,PASS
+female,group B,high school,fluent,none,93,100,93,99,97,95,93,PASS
+female,group E,associate's degree,intermediate,none,53,65,53,59,58,56,54,FAIL
+male,group C,associate's degree,intermediate,none,69,80,69,75,71,68,66,PASS
+male,group C,high school,intermediate,provided,68,80,68,74,74,68,75,FAIL
+female,group D,associate's degree,intermediate,none,56,67,56,62,60,59,56,FAIL
+male,group C,associate's degree,fluent,none,62,73,62,68,65,65,58,FAIL
+male,group B,associate's degree,fluent,provided,64,76,64,70,67,65,63,PASS
+female,group B,high school,fluent,none,60,71,60,66,64,62,59,FAIL
+female,group C,high school,intermediate,none,45,57,45,51,51,53,46,FAIL
+male,group C,high school,intermediate,provided,45,56,45,51,48,42,46,FAIL
+female,group D,high school,fluent,none,71,83,71,77,76,72,74,PASS
+female,group C,associate's degree,fluent,provided,86,98,86,92,90,85,90,PASS
+female,group B,high school,fluent,none,62,74,62,68,68,64,68,FAIL
+female,group B,some college,intermediate,none,62,73,62,68,66,61,66,FAIL
+male,group D,some college,fluent,none,61,72,61,67,64,63,59,FAIL
+male,group D,high school,fluent,none,79,91,79,85,82,82,74,PASS
+female,group E,high school,intermediate,none,64,76,64,70,70,72,65,FAIL
+male,group C,associate's degree,fluent,none,78,89,78,84,79,72,78,PASS
+male,group B,some college,fluent,none,71,82,71,77,72,67,67,PASS
+female,group D,high school,fluent,none,89,100,94,100,100,100,100,PASS
+female,group D,associate's degree,fluent,none,68,80,68,74,72,69,70,PASS
+female,group B,high school,fluent,none,62,74,62,68,69,65,69,FAIL
+female,group C,associate's degree,intermediate,none,67,79,67,73,74,78,67,FAIL
+male,group C,high school,fluent,provided,84,95,84,90,85,81,79,PASS
+female,group D,associate's degree,intermediate,provided,84,96,84,90,91,90,88,PASS
+male,group C,associate's degree,intermediate,none,55,67,55,61,58,55,53,FAIL
+male,group D,associate's degree,intermediate,none,71,83,71,77,73,66,73,PASS
+male,group B,some college,intermediate,none,69,81,69,75,71,68,65,PASS
+male,group E,high school,fluent,none,75,86,75,81,76,73,69,PASS
+female,group C,some college,fluent,provided,74,86,74,80,81,78,80,FAIL
+male,group C,associate's degree,intermediate,provided,69,80,69,75,73,73,68,PASS
+female,group B,high school,fluent,none,73,84,73,79,76,72,74,PASS
+female,group D,high school,fluent,provided,75,87,75,81,80,77,78,PASS
+female,group A,some high school,intermediate,none,52,64,52,58,57,59,50,FAIL
+male,group E,high school,fluent,none,74,85,74,80,75,76,65,PASS
+male,group E,associate's degree,intermediate,provided,98,100,98,104,100,100,93,PASS
+other,group D,high school,fluent,none,86,98,86,92,90,84,89,PASS
+female,group C,associate's degree,fluent,provided,77,89,77,83,82,75,83,PASS
+male,group B,high school,fluent,none,63,74,63,69,67,68,60,FAIL
+female,group D,some college,fluent,provided,92,100,92,98,98,97,96,PASS
+male,group C,some college,fluent,provided,79,90,79,85,82,79,78,PASS
+female,group C,some college,fluent,provided,82,95,82,88,90,90,88,PASS
+female,group D,some college,intermediate,none,65,77,65,71,72,71,69,FAIL
+female,group D,high school,fluent,none,63,75,63,69,69,64,70,FAIL
+female,group B,high school,fluent,none,53,64,53,59,57,53,55,FAIL
+female,group E,some college,intermediate,none,72,84,72,78,76,76,70,PASS
+male,group A,high school,limitted,none,47,59,47,53,51,47,49,FAIL
+male,group E,associate's degree,fluent,provided,87,98,87,93,88,85,82,PASS
+female,group D,high school,intermediate,none,69,81,69,75,75,72,74,FAIL
+female,group E,high school,fluent,none,75,87,75,81,79,81,71,PASS
+female,group E,associate's degree,fluent,none,90,100,90,96,96,95,92,PASS
+male,group D,high school,limitted,provided,40,51,40,46,43,42,38,FAIL
+female,group D,some high school,fluent,none,76,88,76,82,83,82,81,PASS
+female,group C,high school,fluent,none,70,82,70,76,75,69,75,PASS
+female,group C,high school,intermediate,none,50,62,50,56,58,61,54,FAIL
+male,group D,high school,intermediate,none,70,81,70,76,74,74,69,PASS
+female,group D,associate's degree,intermediate,provided,88,100,88,94,95,89,98,PASS
+male,group B,high school,fluent,none,52,63,52,58,54,48,51,FAIL
+male,group B,some college,fluent,none,51,62,51,57,52,50,45,FAIL
+female,group A,associate's degree,fluent,provided,61,73,61,67,66,65,62,FAIL
+female,group D,some college,fluent,none,65,76,65,71,69,64,67,FAIL
+female,group A,associate's degree,limitted,none,50,62,50,56,58,57,56,FAIL
+female,group C,associate's degree,fluent,none,55,66,55,61,59,55,57,FAIL
+male,group C,high school,fluent,none,88,99,88,94,91,89,86,PASS
+male,group A,some high school,intermediate,provided,61,73,61,67,65,62,61,FAIL
+male,group D,some college,fluent,none,57,68,57,63,56,49,52,PASS
+female,group D,associate's degree,fluent,provided,76,88,76,82,80,75,80,PASS
+female,group C,high school,fluent,none,73,85,73,79,80,75,81,FAIL
+male,group E,associate's degree,intermediate,none,57,69,57,63,58,56,52,FAIL
+male,group C,high school,intermediate,none,62,74,62,68,68,72,59,FAIL
+male,group E,high school,fluent,none,65,76,65,71,65,64,57,PASS
+female,group C,high school,fluent,provided,66,78,66,72,72,64,75,FAIL
+female,group B,high school,fluent,none,62,74,62,68,67,68,61,FAIL
+male,group B,high school,fluent,none,68,79,68,74,73,71,69,FAIL
+female,group D,high school,intermediate,provided,93,100,93,99,99,95,100,PASS
+female,group C,high school,intermediate,provided,76,88,76,82,83,81,81,PASS
+female,group B,associate's degree,fluent,none,49,60,49,55,53,49,50,FAIL
+female,group C,some high school,intermediate,provided,72,84,72,78,78,76,75,PASS
+female,group A,high school,intermediate,provided,41,53,41,47,47,48,41,FAIL
+female,group A,,intermediate,provided,54,66,54,60,58,50,60,FAIL
+female,group C,some college,fluent,none,70,82,70,76,76,74,74,FAIL
+female,group A,some high school,limitted,none,45,56,45,51,48,45,45,FAIL
+male,group C,associate's degree,intermediate,none,69,80,69,75,70,67,64,PASS
+female,group E,high school,fluent,none,71,83,71,77,76,73,75,PASS
+female,group D,high school,fluent,provided,72,83,72,78,76,71,74,PASS
+male,group C,associate's degree,fluent,provided,92,100,92,98,93,87,90,PASS
+male,group E,associate's degree,intermediate,none,87,99,87,93,90,90,82,PASS
+female,group D,some high school,fluent,none,91,100,91,97,98,97,96,PASS
+female,group E,associate's degree,fluent,none,76,97,85,91,88,92,85,PASS
+male,group D,associate's degree,fluent,none,66,77,66,72,67,66,60,PASS
+female,group E,high school,fluent,provided,66,78,66,72,71,63,75,FAIL
+female,group C,some college,intermediate,none,41,53,41,47,46,44,43,FAIL
+male,group D,some high school,fluent,provided,79,90,79,85,79,74,75,PASS
+female,group C,high school,fluent,none,86,98,86,92,91,88,90,PASS
+female,group D,some college,intermediate,none,79,91,79,85,85,83,83,PASS
+male,group D,some high school,fluent,none,73,85,73,79,76,74,72,PASS
+male,group D,high school,intermediate,provided,76,88,76,82,80,79,75,PASS
+male,group E,some college,fluent,none,58,69,58,64,59,57,52,PASS
+male,group A,some college,limitted,none,23,35,23,29,25,23,19,FAIL
+male,group E,some college,intermediate,provided,77,88,77,83,77,74,70,PASS
+male,group E,some college,fluent,provided,89,100,89,95,89,87,81,PASS
+male,group E,some high school,intermediate,provided,80,92,80,86,84,83,80,PASS
+female,group D,high school,intermediate,provided,57,69,57,63,64,58,67,FAIL
+male,group C,associate's degree,fluent,none,71,83,71,77,73,70,68,PASS
+male,group D,some high school,fluent,provided,86,98,86,92,89,88,82,PASS
+male,group E,some high school,intermediate,provided,66,78,66,72,67,67,59,PASS
+female,group C,high school,intermediate,none,63,75,63,69,70,72,64,FAIL
+male,group B,high school,fluent,none,45,56,45,51,48,46,42,FAIL
+male,group D,some college,fluent,provided,99,100,99,100,100,97,99,PASS
+female,group C,some high school,intermediate,provided,57,69,57,63,62,60,60,FAIL
+female,group C,some college,intermediate,none,62,73,62,68,66,62,64,FAIL
+female,group C,high school,intermediate,provided,83,95,83,89,89,86,89,PASS
+female,group D,high school,intermediate,none,39,51,39,45,46,41,47,FAIL
+male,group C,high school,intermediate,none,54,66,54,60,58,59,50,FAIL
+male,group D,high school,intermediate,none,68,79,68,74,71,68,67,PASS
+female,group A,some college,intermediate,none,59,71,59,65,62,60,57,FAIL
+female,group D,some high school,fluent,none,73,84,73,79,75,72,71,PASS
+female,group D,some high school,fluent,provided,87,99,87,93,92,92,88,PASS
+female,group A,some college,fluent,none,65,77,65,71,71,70,67,FAIL
+male,group A,high school,fluent,none,70,81,70,76,73,74,64,PASS
+male,group C,some high school,intermediate,provided,53,65,53,59,57,56,53,FAIL
+male,group D,some college,intermediate,none,61,73,61,67,64,61,60,FAIL
+female,group D,some high school,intermediate,provided,50,62,50,56,58,55,60,FAIL
+female,group E,some high school,fluent,provided,83,95,83,89,88,85,85,PASS
+female,group B,high school,intermediate,none,83,95,83,89,88,85,87,PASS
+female,group D,high school,fluent,provided,60,71,60,66,64,58,64,FAIL
+male,group B,some high school,fluent,provided,81,92,81,87,83,83,75,PASS
+male,group D,high school,intermediate,none,65,77,65,71,69,66,67,FAIL
+female,group C,high school,limitted,none,29,41,29,35,33,29,30,FAIL
+male,group D,some college,fluent,provided,60,72,60,66,63,55,63,FAIL
+female,group C,associate's degree,fluent,none,72,84,72,78,78,76,76,PASS
+female,group C,high school,fluent,provided,86,98,86,92,91,91,87,PASS
+female,group C,high school,intermediate,provided,77,90,77,83,84,83,83,PASS
+female,group C,some high school,fluent,provided,73,85,73,79,78,74,77,PASS
+female,group C,some high school,fluent,none,68,80,68,74,73,73,68,FAIL
+male,group E,associate's degree,fluent,none,66,78,66,72,68,64,63,PASS
+female,group C,high school,intermediate,provided,60,72,60,66,67,66,64,FAIL
+male,group E,high school,fluent,none,94,99,88,94,91,85,84,PASS
+male,group B,high school,fluent,provided,71,82,71,77,73,71,68,PASS
+male,group E,associate's degree,intermediate,provided,71,83,71,77,73,69,68,PASS
+female,group C,high school,fluent,provided,70,82,70,76,77,75,77,FAIL
+male,group D,high school,fluent,none,74,86,74,80,77,73,74,PASS
+female,group C,some college,fluent,provided,74,86,74,80,78,71,80,PASS
+female,group C,associate's degree,fluent,provided,79,91,79,85,86,84,86,PASS
+male,group D,some high school,fluent,provided,69,81,69,75,72,69,68,PASS
+male,group B,some high school,intermediate,none,48,60,48,54,52,52,45,FAIL
+male,group D,some college,fluent,none,73,85,73,79,76,71,73,PASS
+female,group B,associate's degree,fluent,none,65,77,65,71,71,69,68,FAIL
+male,group D,some college,fluent,none,55,67,55,61,58,58,52,FAIL
+male,group B,associate's degree,fluent,none,59,70,59,65,60,54,57,PASS
+female,group D,high school,intermediate,none,87,99,87,93,93,90,93,PASS
+female,group C,high school,fluent,provided,90,99,88,94,94,92,89,PASS
+male,group D,high school,fluent,none,80,91,80,86,81,78,75,PASS
+female,group D,high school,intermediate,provided,70,82,70,76,76,71,78,FAIL
+female,group D,associate's degree,intermediate,provided,69,81,69,75,76,74,76,FAIL
+female,group C,associate's degree,fluent,none,87,98,87,93,89,86,84,PASS
+female,group B,associate's degree,fluent,none,76,88,76,82,81,76,80,PASS
+female,group B,some high school,intermediate,provided,64,76,64,70,71,67,72,FAIL
+male,group C,some high school,intermediate,provided,64,76,64,70,69,69,65,FAIL
+female,group D,some high school,limitted,none,31,43,31,37,36,34,32,FAIL
+female,group C,high school,limitted,none,59,71,59,65,65,65,61,FAIL
+female,group D,high school,fluent,none,78,90,78,84,83,79,82,PASS
+male,group D,associate's degree,fluent,none,87,99,87,93,90,87,85,PASS
+male,group B,some college,fluent,provided,93,104,93,99,97,96,91,PASS
+female,group E,associate's degree,intermediate,none,76,87,76,82,80,76,78,PASS
+female,group C,associate's degree,fluent,none,53,66,53,59,61,64,57,FAIL
+female,group D,some high school,fluent,none,70,83,70,76,77,72,80,FAIL
+female,group A,some college,fluent,none,61,73,61,67,67,63,67,FAIL
+male,group D,associate's degree,intermediate,none,64,75,64,70,67,62,64,PASS
+female,group B,associate's degree,fluent,none,77,89,77,83,82,83,76,PASS
+female,group A,some college,fluent,provided,78,90,78,84,83,79,82,PASS
+male,group A,some college,intermediate,none,77,88,77,83,81,81,74,PASS
+male,group B,associate's degree,intermediate,none,57,68,57,63,60,56,57,FAIL
+male,group A,associate's degree,fluent,none,62,73,62,68,65,61,61,FAIL
+male,group C,associate's degree,fluent,none,72,83,72,78,76,77,69,PASS
+male,group D,some high school,fluent,provided,71,83,71,77,73,68,69,PASS
+male,group C,high school,fluent,provided,55,66,55,61,57,52,54,FAIL
+female,group C,some college,fluent,none,67,78,67,73,72,69,69,FAIL
+male,group A,some high school,fluent,provided,48,60,48,54,52,49,49,FAIL
+female,group D,associate's degree,fluent,none,74,86,74,80,77,74,73,PASS
+female,group C,associate's degree,fluent,none,72,84,72,78,78,77,74,PASS
+female,group D,some college,intermediate,provided,71,83,71,77,78,78,76,FAIL
+female,group D,some high school,intermediate,none,78,91,78,84,85,84,84,PASS
+female,group D,some high school,fluent,none,58,70,58,64,64,63,61,FAIL
+male,group D,high school,intermediate,provided,88,99,88,94,92,89,90,PASS
+female,group C,associate's degree,fluent,provided,97,100,97,103,101,96,99,PASS
+male,group C,associate's degree,intermediate,provided,80,92,80,86,84,81,82,PASS
+other,group A,high school,intermediate,provided,41,53,41,47,47,48,41,FAIL
+female,group A,some high school,fluent,none,60,72,60,66,67,66,65,FAIL
+male,group B,high school,intermediate,none,60,72,60,66,63,63,56,FAIL
+male,group B,some college,fluent,none,44,55,44,50,46,43,41,FAIL
+male,group E,some high school,fluent,none,86,97,86,92,87,87,78,PASS
+male,group B,some high school,fluent,provided,66,77,66,72,70,67,67,FAIL
+male,group A,some high school,fluent,none,61,72,61,67,61,62,50,PASS
+male,group E,high school,fluent,none,79,90,79,85,78,73,71,PASS
+female,group D,high school,fluent,none,73,84,73,79,77,72,77,PASS
+female,group C,high school,intermediate,provided,58,71,58,64,65,62,66,FAIL
+male,group E,associate's degree,fluent,none,80,91,80,86,80,76,74,PASS
+female,group B,high school,intermediate,none,78,89,78,84,81,79,76,PASS
+male,group C,some college,intermediate,none,66,77,66,72,68,68,61,PASS
+female,group D,high school,fluent,none,69,81,69,75,75,70,75,FAIL
+female,group C,associate's degree,fluent,provided,82,94,82,88,88,82,90,PASS
+female,group B,associate's degree,fluent,none,62,74,62,68,67,63,65,FAIL
+female,group D,associate's degree,fluent,none,88,100,88,94,93,91,89,PASS
+male,group C,high school,fluent,none,76,87,76,82,79,81,71,PASS
+female,group A,high school,fluent,none,67,79,67,73,74,73,73,FAIL
+male,group D,some high school,fluent,none,76,87,76,82,76,73,70,PASS
+male,group C,associate's degree,intermediate,provided,46,58,46,52,50,45,50,FAIL
+female,group C,high school,fluent,none,58,70,58,64,63,59,62,FAIL
+female,group B,some high school,intermediate,provided,73,85,73,79,80,78,79,FAIL
+male,group C,some high school,fluent,none,68,80,68,74,70,66,66,PASS
+female,group A,associate's degree,fluent,none,89,101,89,95,95,93,93,PASS
+male,group B,some college,intermediate,none,52,64,52,58,55,55,47,FAIL
+male,group D,some high school,intermediate,none,54,65,54,60,57,54,52,FAIL
+male,group C,some college,fluent,none,80,91,80,86,80,74,76,PASS
+female,group C,associate's degree,fluent,none,90,101,90,96,95,89,95,PASS
+female,group D,some college,fluent,provided,76,88,76,82,82,79,81,PASS
+male,group D,some college,fluent,none,63,74,63,69,65,59,62,PASS
+female,group D,some college,intermediate,none,58,70,58,64,65,65,61,FAIL
+female,group D,some college,fluent,none,82,94,82,88,88,89,84,PASS
+male,group C,high school,fluent,none,67,79,67,73,69,66,65,PASS
+male,group E,associate's degree,fluent,none,46,57,46,52,47,45,40,FAIL
+male,group C,associate's degree,fluent,none,81,93,81,87,84,80,80,PASS
+female,group C,some college,intermediate,provided,71,82,71,77,75,75,70,PASS
+male,group D,high school,intermediate,none,48,60,48,54,49,46,44,FAIL
+male,group A,high school,intermediate,provided,68,79,68,74,70,67,65,PASS
+female,group D,some college,fluent,none,99,100,99,105,103,100,99,PASS
+male,group B,some college,intermediate,none,51,62,51,57,53,54,45,FAIL
+male,group C,some high school,fluent,none,57,69,57,63,61,61,54,FAIL
+female,group C,some high school,intermediate,none,77,89,77,83,84,86,80,PASS
+male,group C,high school,fluent,none,85,97,85,91,88,83,86,PASS
+male,group E,some college,fluent,none,89,100,89,95,89,87,82,PASS
+female,group E,some college,fluent,none,88,100,88,94,92,85,93,PASS
+female,group D,some college,fluent,provided,78,90,78,84,83,77,83,PASS
+male,group C,associate's degree,fluent,none,85,96,85,91,86,79,84,PASS
+male,group A,some high school,fluent,none,52,63,52,58,55,54,48,FAIL
+female,group C,some high school,fluent,none,85,97,85,91,91,91,88,PASS
+male,group D,some college,fluent,none,50,62,50,56,56,54,53,FAIL
+female,group B,high school,fluent,provided,73,85,73,79,78,76,74,PASS
+female,group E,some high school,intermediate,none,35,46,35,41,39,34,38,FAIL
+female,group C,some high school,limitted,none,9,21,9,15,15,17,10,FAIL
+male,group C,some high school,fluent,provided,60,71,60,66,62,60,57,FAIL
+male,group A,high school,fluent,none,61,72,61,67,63,60,58,FAIL
+male,group D,associate's degree,fluent,none,69,80,69,75,68,63,63,PASS
+female,group C,associate's degree,fluent,none,56,68,56,62,60,62,53,FAIL
+female,group D,associate's degree,intermediate,none,32,44,32,38,37,31,38,FAIL
+female,group D,associate's degree,fluent,none,71,83,71,77,77,76,74,FAIL
+male,group E,high school,fluent,provided,86,98,86,92,89,91,81,PASS
+female,group D,some high school,fluent,provided,75,87,75,81,82,78,82,PASS
+male,group C,high school,fluent,none,47,58,47,53,49,48,42,FAIL
+male,group E,high school,fluent,provided,94,100,99,105,101,100,100,PASS
+male,group C,some high school,fluent,none,67,79,67,73,69,66,63,PASS
+female,group C,high school,limitted,none,44,56,44,50,50,53,43,FAIL
+male,group C,some high school,fluent,none,58,69,58,64,59,58,51,FAIL
+female,group B,some college,fluent,provided,92,100,92,98,96,95,92,PASS
+female,group B,high school,intermediate,none,67,79,67,73,72,72,68,FAIL
+female,group D,associate's degree,intermediate,none,53,65,53,59,58,53,58,FAIL
+male,group B,high school,fluent,provided,70,81,70,76,72,69,68,PASS
+male,group E,some college,fluent,none,77,89,77,83,78,77,71,PASS
+male,group E,high school,fluent,provided,68,79,68,74,69,62,66,PASS
+female,group C,high school,intermediate,provided,67,80,67,73,76,72,79,FAIL
+female,group C,associate's degree,fluent,none,64,76,64,70,69,66,67,FAIL
+female,group B,some high school,intermediate,none,54,66,54,60,59,58,55,FAIL
+male,group C,high school,intermediate,none,63,74,63,69,67,66,61,FAIL
+female,group C,some college,fluent,none,63,75,63,69,69,69,65,FAIL
+female,group A,high school,intermediate,none,63,76,63,69,71,67,73,FAIL
+female,group B,some high school,intermediate,provided,62,74,62,68,66,63,64,FAIL
+male,group B,some college,intermediate,none,38,49,38,44,40,39,34,FAIL
+male,group D,some high school,fluent,none,83,94,83,89,86,84,80,PASS
+female,group C,high school,intermediate,none,55,67,55,61,62,62,60,FAIL
+female,group C,associate's degree,fluent,none,93,105,93,99,97,95,94,PASS
+female,group E,high school,fluent,none,69,81,69,75,74,73,70,FAIL
+male,group E,some college,fluent,none,62,74,62,68,64,60,59,PASS
+female,group B,some college,fluent,none,86,98,86,92,91,86,92,PASS
+female,group B,high school,intermediate,provided,61,73,61,67,68,70,62,FAIL
+male,group C,some college,fluent,none,84,96,84,90,87,87,81,PASS
+female,group B,some high school,fluent,none,81,93,81,87,84,82,80,PASS
+male,group D,high school,fluent,none,86,98,86,92,90,84,89,PASS
+female,group C,some college,fluent,none,56,68,56,62,61,58,58,FAIL
+female,group C,associate's degree,intermediate,none,72,84,72,78,78,77,74,PASS
+female,group D,associate's degree,fluent,none,76,87,76,82,79,77,73,PASS
+male,group C,high school,fluent,none,59,70,59,65,59,56,51,PASS
+male,group C,associate's degree,fluent,provided,56,68,56,62,61,60,58,FAIL
+male,group D,high school,fluent,provided,48,59,48,54,49,41,48,FAIL
+male,group B,high school,intermediate,none,51,63,51,57,55,53,52,FAIL
+female,group C,associate's degree,intermediate,provided,65,77,65,71,71,68,70,FAIL
+male,group E,some college,intermediate,none,89,100,89,95,91,90,83,PASS
+female,group C,some high school,intermediate,provided,73,85,73,79,80,79,77,FAIL
+male,group D,high school,fluent,none,82,94,82,88,86,81,84,PASS
+male,group B,high school,intermediate,none,56,68,56,62,60,59,54,FAIL
+male,group C,some college,fluent,none,59,71,59,65,62,60,58,FAIL
+male,group D,associate's degree,intermediate,provided,80,82,71,77,78,71,73,FAIL
+female,group C,associate's degree,fluent,none,66,78,66,72,70,64,70,FAIL
+female,group D,some college,fluent,provided,76,88,76,82,80,75,79,PASS
+female,group E,associate's degree,fluent,provided,92,103,92,98,94,89,92,PASS
+male,group C,high school,fluent,none,70,81,70,76,70,66,64,PASS
+female,group E,some high school,intermediate,none,76,88,76,82,81,79,77,PASS
+female,group E,high school,fluent,none,100,112,100,106,103,100,100,PASS
+male,group D,high school,fluent,none,70,82,70,76,73,70,70,PASS
+female,group E,high school,fluent,provided,90,105,93,99,98,99,95,PASS
+male,group B,associate's degree,intermediate,provided,78,89,78,84,80,78,74,PASS
+female,group E,some high school,fluent,none,79,90,79,85,83,79,80,PASS
+male,group D,some college,fluent,provided,67,78,67,73,69,61,69,PASS
+male,group B,associate's degree,intermediate,none,63,74,63,69,65,62,60,PASS
+female,group C,some college,fluent,provided,92,100,92,98,97,95,94,PASS
+female,group E,associate's degree,fluent,none,100,112,100,106,103,100,100,PASS
+male,group C,high school,fluent,none,72,83,72,78,76,74,71,PASS
+male,group D,associate's degree,intermediate,none,53,65,53,59,57,57,50,FAIL
+male,group C,high school,intermediate,none,59,70,59,65,61,60,55,FAIL
+female,group E,some college,fluent,provided,68,80,68,74,73,72,70,FAIL
+male,group B,some college,fluent,none,64,75,64,70,66,65,60,PASS
+male,group C,some high school,fluent,provided,76,88,76,82,80,80,73,PASS
+female,group D,,fluent,provided,99,100,99,105,103,100,100,PASS
+male,group C,some college,fluent,none,47,58,47,53,47,41,42,FAIL
+male,group C,associate's degree,intermediate,none,63,75,63,69,66,66,59,FAIL
+male,group A,high school,fluent,provided,73,85,73,79,77,73,74,PASS
+male,group D,associate's degree,fluent,none,75,86,75,81,76,71,73,PASS
+male,group D,high school,fluent,none,53,64,53,59,56,52,52,FAIL
+female,group C,some college,fluent,none,78,90,78,84,83,80,82,PASS
+female,group B,some high school,intermediate,provided,84,96,84,90,91,90,88,PASS
+male,group D,high school,fluent,none,85,96,85,91,87,87,79,PASS
+male,group C,high school,limitted,none,32,44,32,38,37,34,36,FAIL
+other,group C,some high school,fluent,none,77,89,77,83,81,75,82,PASS
+male,group C,high school,intermediate,provided,45,57,45,51,50,46,50,FAIL
+female,group C,some college,fluent,none,85,97,85,91,89,83,90,PASS
+male,group B,high school,fluent,none,55,66,55,61,57,54,51,FAIL
+female,group D,high school,fluent,none,63,75,63,69,67,64,64,FAIL
+female,group B,some high school,fluent,none,77,89,77,83,82,79,79,PASS
+female,group C,some college,fluent,none,67,79,67,73,73,71,70,FAIL
+female,group D,high school,fluent,none,88,100,88,94,95,91,96,PASS
+male,group C,high school,fluent,provided,71,82,71,77,73,69,68,PASS
+female,group E,some college,fluent,none,62,74,62,68,66,64,62,FAIL
+female,group B,high school,fluent,none,69,81,69,75,74,72,70,PASS
+male,group A,high school,intermediate,none,52,63,52,58,55,58,44,FAIL
+male,group D,some college,intermediate,none,65,76,65,71,67,66,60,PASS
+male,group D,high school,intermediate,none,56,67,56,62,58,57,51,FAIL
+female,group C,some high school,fluent,provided,60,72,60,66,64,54,67,FAIL
+male,group D,associate's degree,fluent,none,52,64,52,58,55,55,49,FAIL
+male,group B,some college,fluent,provided,72,84,72,78,76,75,70,PASS
+female,group B,associate's degree,fluent,provided,65,77,65,71,70,70,66,FAIL
+male,group A,some college,fluent,provided,73,85,73,79,75,72,70,PASS
+female,group D,high school,intermediate,provided,66,77,66,72,69,61,71,PASS
+male,group C,high school,fluent,none,51,63,51,57,54,53,49,FAIL
+male,group B,some high school,intermediate,provided,65,64,54,60,59,50,52,FAIL
+female,group D,some college,intermediate,none,62,74,62,68,67,67,62,FAIL
+female,group D,some college,fluent,provided,85,97,85,91,90,84,91,PASS
+female,group D,some college,intermediate,provided,65,77,65,71,70,63,73,FAIL
+other,group B,some high school,fluent,provided,82,94,82,88,87,82,86,PASS
+male,group D,high school,intermediate,none,59,70,59,65,61,57,56,FAIL
+male,group C,high school,intermediate,none,64,75,64,70,66,66,59,PASS
+male,group D,associate's degree,intermediate,none,84,95,84,90,85,87,75,PASS
+male,group C,some college,intermediate,none,70,81,70,76,70,64,66,PASS
+female,group C,associate's degree,fluent,none,67,78,67,73,71,67,70,FAIL
+male,group B,some high school,fluent,provided,82,94,82,88,85,84,78,PASS
+male,group E,some high school,fluent,provided,77,88,77,83,80,76,77,PASS
+female,group C,some college,fluent,provided,82,95,82,88,90,89,88,PASS
+male,group B,high school,fluent,none,55,66,55,61,57,58,47,FAIL
+male,group D,high school,intermediate,none,48,59,48,54,52,51,48,FAIL
+female,group B,some high school,limitted,provided,42,54,42,48,49,51,44,FAIL
+male,group D,some college,intermediate,none,51,62,51,57,55,57,46,FAIL
+female,group C,high school,fluent,none,78,90,78,84,84,80,83,PASS
+male,group E,some college,fluent,provided,82,93,82,88,84,83,78,PASS
+female,group E,high school,intermediate,provided,68,81,68,74,75,75,73,FAIL
+female,group D,high school,intermediate,provided,98,100,98,104,103,100,100,PASS
+male,group C,high school,fluent,none,78,89,78,84,80,78,73,PASS
+female,group C,some college,intermediate,none,86,98,86,92,92,90,91,PASS
+female,group C,high school,fluent,none,88,100,88,94,92,92,87,PASS
+male,group B,some college,fluent,none,59,70,59,65,59,54,55,PASS
+male,group B,associate's degree,fluent,provided,91,102,91,97,94,89,92,PASS
+female,group C,associate's degree,intermediate,none,59,71,59,65,64,61,62,FAIL
+male,group B,some high school,fluent,provided,49,60,49,55,51,54,41,FAIL
+female,group C,some college,intermediate,none,64,75,64,70,68,67,62,FAIL
+female,group C,high school,fluent,none,66,78,66,72,72,72,68,FAIL
+male,group D,high school,fluent,none,46,58,46,52,50,48,46,FAIL
+female,group C,some college,fluent,none,87,99,87,93,92,87,91,PASS
+female,group B,some college,intermediate,provided,64,76,64,70,71,66,73,FAIL
+female,group D,high school,fluent,none,73,85,73,79,78,77,73,PASS
+male,group C,some college,limitted,none,30,41,30,36,32,28,27,FAIL
+female,group C,high school,fluent,none,69,81,69,75,74,69,74,FAIL
+female,group D,high school,intermediate,none,46,58,46,52,51,52,46,FAIL
+female,group A,some high school,intermediate,none,67,79,67,73,73,73,69,FAIL
+female,group C,high school,limitted,provided,62,74,62,68,68,64,67,FAIL
+female,group B,some college,fluent,none,85,96,85,91,89,85,87,PASS
+male,group D,high school,fluent,none,49,60,49,55,51,52,42,FAIL
+male,group A,high school,intermediate,none,45,56,45,51,47,45,41,FAIL
+male,group C,associate's degree,fluent,none,77,88,77,83,78,76,71,PASS
+male,group A,some college,intermediate,provided,80,92,80,86,83,78,81,PASS
+male,group C,associate's degree,fluent,none,40,51,40,46,41,37,35,FAIL
+female,group A,some college,fluent,none,59,71,59,65,64,58,64,FAIL
+female,group B,high school,intermediate,none,49,62,49,55,56,60,50,FAIL
+female,group D,some college,intermediate,provided,74,87,74,80,81,80,80,FAIL
+male,group B,high school,intermediate,none,53,64,53,59,53,48,47,FAIL
+female,group C,some high school,fluent,provided,90,102,90,96,95,92,93,PASS
+female,group C,high school,fluent,none,83,95,83,89,89,88,85,PASS
+female,group A,some high school,fluent,provided,89,100,89,95,94,90,92,PASS
+male,group C,some high school,intermediate,none,68,80,68,74,71,71,65,PASS
+female,group C,high school,intermediate,none,56,69,56,62,64,63,62,FAIL
+male,group C,high school,fluent,none,64,76,64,70,66,63,61,PASS
+female,group D,some high school,fluent,provided,69,81,69,75,75,74,72,FAIL
+female,group C,high school,fluent,none,70,82,70,76,75,72,74,PASS
+male,group C,some college,fluent,none,70,75,64,70,68,63,60,FAIL
+male,group D,some college,fluent,none,69,80,69,75,70,64,66,PASS
+female,group C,associate's degree,fluent,none,58,69,58,64,62,61,58,FAIL
+male,group C,high school,fluent,none,68,80,68,74,71,70,65,PASS
+male,group D,high school,intermediate,provided,69,81,69,75,75,70,76,FAIL
+other,group E,high school,fluent,none,75,87,75,81,79,78,74,PASS
+female,group C,high school,intermediate,provided,77,89,77,83,83,79,84,PASS
+female,group C,high school,fluent,none,82,94,82,88,86,84,82,PASS
+female,group C,some college,intermediate,,59,71,59,65,66,64,66,FAIL
+male,group B,high school,intermediate,none,31,42,31,37,32,29,27,FAIL
+male,group C,high school,intermediate,provided,77,88,77,83,80,77,75,PASS
+male,group D,high school,fluent,none,72,84,72,78,74,73,68,PASS
+female,group D,high school,intermediate,none,53,64,53,59,57,57,52,FAIL
+male,group C,high school,intermediate,provided,73,85,73,79,77,75,74,PASS
+male,group B,high school,fluent,none,68,79,68,74,68,60,65,PASS
+male,group D,some college,fluent,provided,84,95,84,90,87,81,85,PASS
+female,group A,high school,fluent,provided,79,90,79,85,83,82,79,PASS
+male,group C,high school,fluent,provided,92,100,92,98,94,90,91,PASS
+male,group D,high school,fluent,none,61,72,61,67,62,58,57,PASS
+male,group E,some college,fluent,none,79,90,79,85,80,76,74,PASS
+female,group C,associate's degree,fluent,provided,71,84,71,77,79,77,80,FAIL
+male,group C,some high school,fluent,none,46,58,46,52,49,49,41,FAIL
+female,group E,associate's degree,fluent,provided,72,84,72,78,78,75,77,PASS
+female,group B,associate's degree,fluent,none,46,58,46,52,51,48,50,FAIL
+male,group C,some college,intermediate,none,59,71,59,65,61,61,54,FAIL
+female,group C,high school,fluent,none,84,96,84,90,90,88,87,PASS
+male,group C,high school,fluent,provided,71,83,71,77,74,74,68,PASS
+male,group C,some high school,intermediate,none,58,69,58,64,60,57,56,FAIL
+male,group B,some college,fluent,provided,83,94,83,89,85,85,76,PASS
+female,group E,associate's degree,intermediate,provided,86,97,86,92,90,86,88,PASS
+female,group A,high school,fluent,none,50,62,50,56,53,49,51,FAIL
+female,group B,high school,intermediate,provided,75,87,75,81,81,78,79,PASS
+male,group C,associate's degree,intermediate,none,77,88,77,83,77,73,72,PASS
+female,group B,high school,intermediate,provided,89,102,89,95,97,97,94,PASS
+female,group C,high school,fluent,none,71,83,71,77,76,71,76,PASS
+female,group D,high school,fluent,provided,83,95,83,89,89,82,91,PASS
+female,group D,high school,intermediate,provided,55,67,55,61,59,57,56,FAIL
+male,group C,some high school,intermediate,none,62,73,62,68,63,63,54,PASS
+male,group B,associate's degree,fluent,none,73,85,73,79,74,76,64,PASS
+female,group C,associate's degree,fluent,none,72,84,72,78,77,77,73,PASS
+male,group B,some college,fluent,provided,74,86,74,80,79,77,77,PASS
+male,group D,some college,intermediate,none,55,66,55,61,56,47,56,FAIL
+male,group C,associate's degree,fluent,provided,77,89,77,83,80,77,77,PASS
+female,group B,associate's degree,fluent,none,52,63,52,58,56,52,54,FAIL
+female,group B,some high school,fluent,provided,75,87,75,81,82,82,78,PASS
+female,group E,some college,fluent,none,78,90,78,84,82,78,80,PASS
+female,group B,associate's degree,intermediate,none,61,73,61,67,67,65,65,FAIL
+male,group A,high school,fluent,provided,65,76,65,71,65,58,62,PASS
+male,group C,high school,fluent,none,74,85,74,80,78,79,71,PASS
+female,group B,high school,intermediate,none,80,92,80,86,86,87,82,PASS
+male,group B,some high school,fluent,none,64,75,64,70,66,64,61,PASS
+male,group B,associate's degree,intermediate,provided,67,79,67,73,70,70,63,PASS
+female,group D,some college,fluent,none,74,86,74,80,79,77,77,PASS
+female,group B,associate's degree,intermediate,provided,75,87,75,81,81,77,80,PASS
+male,group B,some high school,fluent,none,58,69,58,64,58,54,53,PASS
+female,group B,associate's degree,fluent,provided,64,76,64,70,71,66,73,FAIL
+male,group D,associate's degree,fluent,provided,77,88,77,83,79,72,77,PASS
+female,group E,high school,intermediate,none,57,69,57,63,61,58,57,FAIL
+female,group D,some college,intermediate,none,56,68,56,62,61,58,60,FAIL
+female,group C,high school,intermediate,provided,65,77,65,71,70,71,65,FAIL
+male,group A,some high school,intermediate,none,68,80,68,74,71,72,64,PASS
+female,group D,some high school,fluent,provided,74,86,74,80,80,78,78,PASS
+male,group D,high school,fluent,none,87,98,87,93,87,81,84,PASS
+male,group A,some high school,fluent,provided,66,78,66,72,71,67,69,FAIL
+female,group E,some college,fluent,none,68,80,68,74,74,73,70,FAIL
+female,group C,some high school,intermediate,provided,81,93,81,87,87,84,87,PASS
+female,group C,some college,fluent,none,61,73,61,67,65,59,66,FAIL
+male,group A,high school,fluent,none,54,65,54,60,56,51,54,FAIL
+female,group C,some college,fluent,provided,76,88,76,82,82,81,79,PASS
+female,group B,high school,fluent,none,97,100,97,103,100,97,96,PASS
+male,group C,high school,intermediate,provided,52,63,52,58,55,51,51,FAIL
+male,group E,some high school,fluent,provided,59,70,59,65,59,51,57,PASS
+female,group C,some college,fluent,none,51,63,51,57,54,48,52,FAIL
+female,group B,high school,intermediate,provided,81,93,81,87,86,85,82,PASS
+female,group B,high school,intermediate,provided,76,88,76,82,82,80,81,PASS
+male,group D,high school,intermediate,none,71,82,71,77,73,70,69,PASS
+male,group E,associate's degree,fluent,none,64,75,64,70,64,57,62,PASS
+male,group D,high school,fluent,none,56,67,56,62,57,54,50,FAIL
+male,group E,associate's degree,intermediate,none,43,55,43,49,46,43,41,FAIL
+female,group B,associate's degree,fluent,provided,91,102,91,97,93,87,92,PASS
+female,group E,high school,fluent,none,82,94,82,88,86,83,83,PASS
+female,group D,associate's degree,intermediate,none,69,81,69,75,77,76,76,FAIL
+female,group C,high school,intermediate,none,64,76,64,70,68,67,64,FAIL
+male,group C,high school,fluent,none,60,71,60,66,61,60,53,PASS
+female,group D,high school,fluent,provided,66,78,66,72,73,68,74,FAIL
+male,group C,some high school,fluent,none,49,60,49,55,52,52,44,FAIL
+male,group A,high school,fluent,none,52,64,52,58,53,52,46,FAIL
+female,group C,high school,intermediate,none,73,85,73,79,80,78,79,FAIL
+female,group E,associate's degree,fluent,none,101,100,94,100,100,94,95,PASS
+male,group E,some college,fluent,none,79,90,79,85,81,80,73,PASS
+female,group D,some high school,intermediate,provided,56,69,56,62,65,65,64,FAIL
+female,group C,high school,intermediate,none,43,55,43,49,47,46,43,FAIL
+female,group C,some college,intermediate,provided,63,75,63,69,72,73,70,FAIL
+female,group D,some college,intermediate,none,65,77,65,71,70,66,70,FAIL
+male,group C,some college,intermediate,provided,50,62,50,56,54,48,53,FAIL
+female,group D,high school,intermediate,none,83,95,83,89,90,92,84,PASS
+female,group E,high school,fluent,none,80,92,80,86,85,86,79,PASS
+female,group C,some high school,fluent,provided,76,88,76,82,81,82,76,PASS
+female,group C,high school,fluent,none,66,77,66,72,71,73,63,FAIL
+female,group D,associate's degree,limitted,provided,54,66,54,60,61,61,58,FAIL
+female,group A,associate's degree,intermediate,none,60,60,50,56,56,51,48,FAIL
+male,group E,high school,fluent,none,60,71,60,66,60,55,56,PASS
+male,group B,associate's degree,intermediate,none,58,70,58,64,61,58,56,FAIL
+male,group C,associate's degree,fluent,none,71,83,71,77,74,73,67,PASS
+male,group C,high school,intermediate,none,77,88,77,83,80,81,71,PASS
+male,group D,some high school,fluent,none,73,84,73,79,75,74,69,PASS
+female,group B,high school,fluent,none,84,96,84,90,89,90,84,PASS
+female,group A,some high school,fluent,provided,75,87,75,81,83,85,80,FAIL
+male,group A,associate's degree,fluent,none,59,70,59,65,60,57,53,PASS
+male,group A,some high school,intermediate,none,59,70,59,65,60,59,53,PASS
+female,group B,some high school,fluent,none,68,79,68,74,72,69,68,PASS
+female,group A,high school,fluent,none,56,68,56,62,63,59,64,FAIL
+female,group C,associate's degree,intermediate,provided,68,80,68,74,71,67,69,PASS
+male,group E,some college,fluent,none,73,84,73,79,75,71,72,PASS
+female,group D,some college,fluent,provided,74,86,74,80,80,78,77,PASS
+female,group D,associate's degree,intermediate,provided,84,96,84,90,91,88,90,PASS
+male,group C,high school,intermediate,none,57,69,57,63,59,55,55,FAIL
+male,group E,some college,fluent,none,70,81,70,76,71,67,67,PASS
+female,group D,high school,fluent,none,86,98,86,92,91,89,89,PASS
+male,group A,some high school,fluent,provided,66,78,66,72,69,68,64,PASS
+female,group B,some college,fluent,provided,60,72,60,66,67,64,66,FAIL
+female,group E,some high school,intermediate,none,44,56,44,50,49,49,45,FAIL
+female,group D,associate's degree,fluent,none,72,84,72,78,76,71,74,PASS
+male,group C,high school,intermediate,provided,54,65,54,60,56,51,52,FAIL
+male,group E,associate's degree,fluent,none,71,83,71,77,73,71,67,PASS
+male,group B,associate's degree,fluent,none,45,57,45,51,48,43,45,FAIL
+female,group D,some college,intermediate,provided,79,91,79,85,86,86,83,PASS
+female,group C,some college,fluent,provided,74,86,74,80,81,82,77,FAIL
+male,group C,high school,fluent,none,61,72,61,67,62,57,59,PASS
+male,group B,high school,fluent,provided,68,80,68,74,70,65,68,PASS
+male,group C,associate's degree,intermediate,provided,56,67,56,62,58,51,56,FAIL
+female,group C,high school,fluent,none,67,79,67,73,71,69,67,PASS
+female,group E,associate's degree,fluent,none,63,75,63,69,68,62,69,FAIL
+male,group B,high school,fluent,none,61,72,61,67,63,60,57,PASS
+male,group D,associate's degree,fluent,none,52,63,52,58,52,48,46,FAIL
+female,group C,associate's degree,fluent,provided,75,87,75,81,80,77,77,PASS
+male,group A,high school,fluent,provided,86,98,86,92,89,84,87,PASS
+male,group D,high school,fluent,none,85,96,85,91,87,84,82,PASS
+female,group E,high school,fluent,none,66,78,66,72,71,68,68,FAIL
+female,group D,associate's degree,fluent,provided,92,105,102,100,96,92,95,PASS
+male,group B,some college,intermediate,provided,63,75,63,69,68,65,66,FAIL
+female,group A,high school,fluent,none,64,76,64,70,68,68,63,FAIL
+female,group C,some college,fluent,none,74,86,74,80,79,78,76,PASS
+male,group A,associate's degree,intermediate,provided,49,61,49,55,56,55,53,FAIL
+female,group E,high school,fluent,provided,78,89,78,84,82,79,80,PASS
+female,group C,associate's degree,fluent,none,84,95,84,90,87,84,82,PASS
+female,group D,some college,fluent,none,68,80,68,74,73,70,72,FAIL
+female,group C,some college,fluent,none,77,89,77,83,83,81,80,PASS
+male,group B,associate's degree,fluent,provided,82,93,82,88,85,82,82,PASS
+female,group D,some high school,fluent,none,53,65,53,59,58,58,54,FAIL
+male,group C,high school,fluent,provided,64,76,64,70,68,64,66,FAIL
+male,group D,associate's degree,fluent,none,56,67,56,62,58,55,52,FAIL
+male,group C,high school,fluent,provided,83,95,83,89,86,82,84,PASS
+female,group B,some high school,fluent,none,49,61,49,55,55,55,51,FAIL
+female,group E,associate's degree,intermediate,none,78,90,78,84,84,84,81,PASS
+male,group D,some college,intermediate,none,64,75,64,70,65,63,58,PASS
+male,group E,high school,fluent,provided,79,90,79,85,82,80,76,PASS
+female,group E,some college,fluent,none,72,84,72,78,76,70,76,PASS
+female,group E,some college,fluent,provided,87,99,87,93,91,85,91,PASS
+female,group B,some high school,fluent,none,43,55,43,49,48,46,46,FAIL
+female,group B,some college,intermediate,none,77,89,77,83,81,81,76,PASS
+male,group A,high school,fluent,none,64,75,64,70,67,64,62,PASS
+female,group A,some high school,fluent,provided,96,100,103,104,101,100,97,PASS
+female,group D,some college,intermediate,provided,59,71,59,65,64,59,65,FAIL
+female,group D,associate's degree,fluent,provided,71,84,71,77,79,78,79,FAIL
+female,group C,some college,fluent,none,69,81,69,75,75,72,74,FAIL
+male,group B,high school,fluent,provided,66,77,66,72,66,62,60,PASS
+male,group C,some high school,intermediate,provided,49,60,49,55,53,52,49,FAIL
+male,group D,some high school,intermediate,none,40,51,40,46,41,37,37,FAIL
+female,group B,some college,intermediate,provided,54,66,54,60,59,56,58,FAIL
+male,group E,some college,fluent,none,61,72,61,67,62,60,54,PASS
+male,group C,some college,fluent,none,67,78,67,73,70,64,68,PASS
+female,group C,some high school,fluent,none,51,63,51,57,56,54,53,FAIL
+female,group C,associate's degree,intermediate,none,58,69,58,64,62,58,61,FAIL
+female,group C,associate's degree,fluent,provided,58,70,58,64,63,59,62,FAIL
+male,group E,some high school,fluent,none,26,37,26,32,28,26,22,FAIL
+female,group B,high school,fluent,none,87,99,87,93,92,91,89,PASS
+female,group E,high school,fluent,provided,70,82,70,76,73,70,70,PASS
+female,group C,high school,intermediate,none,56,68,56,62,62,60,59,FAIL
+male,group B,associate's degree,intermediate,provided,56,67,56,62,59,57,53,FAIL
+female,group C,high school,fluent,none,75,87,75,81,79,78,74,PASS
+male,group C,some college,fluent,none,69,81,69,75,71,74,61,PASS
+female,group C,some college,intermediate,provided,59,72,59,65,68,66,69,FAIL
+female,group C,high school,intermediate,none,71,83,71,77,76,75,72,PASS
+male,group B,some high school,fluent,provided,58,69,58,64,59,53,57,FAIL
+female,group B,high school,intermediate,provided,71,83,71,77,78,76,78,FAIL
+female,group B,high school,intermediate,none,18,30,18,24,25,24,23,FAIL
+female,group E,associate's degree,fluent,provided,96,100,96,102,100,100,95,PASS
+male,group B,some college,fluent,none,60,71,60,66,63,61,57,FAIL
+female,group E,some college,fluent,none,68,80,68,74,71,70,66,PASS
+male,group E,some college,fluent,none,52,64,52,58,55,55,48,FAIL
+female,group B,some high school,fluent,none,64,76,64,70,68,64,66,FAIL
+female,group B,some college,intermediate,none,65,77,65,71,70,68,66,FAIL
+male,group E,associate's degree,fluent,provided,80,92,80,86,83,81,79,PASS
+male,group A,some college,fluent,provided,94,105,94,100,95,96,86,PASS
+male,group D,some college,fluent,none,40,52,40,46,43,42,38,FAIL
+male,group E,high school,intermediate,provided,81,92,81,87,82,81,75,PASS
+male,group B,some college,fluent,none,52,64,52,58,55,52,51,FAIL
+female,group C,some college,fluent,none,72,83,72,78,75,72,71,PASS
+male,group D,associate's degree,fluent,provided,69,80,69,75,73,72,67,PASS
+female,group E,high school,fluent,provided,81,92,81,87,85,81,82,PASS
+female,group C,some high school,intermediate,none,61,73,61,67,66,65,62,FAIL
+male,group A,some high school,intermediate,none,37,49,37,43,40,39,34,FAIL
+female,group B,some college,intermediate,provided,70,82,70,76,75,75,70,PASS
+female,group E,high school,fluent,provided,100,111,100,106,103,100,100,PASS
+male,group D,high school,fluent,provided,66,77,66,72,69,64,66,PASS
+female,group C,some high school,fluent,provided,84,96,84,90,90,90,85,PASS
+female,group B,high school,intermediate,none,60,72,60,66,67,67,63,FAIL
+female,group C,some high school,intermediate,none,53,64,53,59,58,58,52,FAIL
+male,group C,high school,fluent,provided,87,98,87,93,89,85,85,PASS
+female,group D,some college,fluent,none,74,85,74,80,76,68,77,PASS
+male,group B,some high school,fluent,provided,83,95,83,89,88,85,86,PASS
+female,group B,associate's degree,intermediate,none,64,76,64,70,71,71,67,FAIL
+male,group D,high school,intermediate,none,69,80,69,75,72,70,67,PASS
+male,group A,some high school,intermediate,none,48,59,48,54,49,46,43,FAIL
+female,group C,some high school,fluent,none,72,83,72,78,76,73,73,PASS
+female,group B,associate's degree,fluent,none,77,89,77,83,83,83,78,PASS
+female,group D,some college,intermediate,none,74,86,74,80,81,81,77,PASS
+male,group E,associate's degree,intermediate,provided,75,86,75,81,77,74,72,PASS
+male,group B,associate's degree,fluent,none,83,94,83,89,84,78,81,PASS
+male,group C,some college,fluent,provided,89,100,89,95,91,84,90,PASS
+female,group D,high school,fluent,none,56,68,56,62,63,63,59,FAIL
+male,group E,high school,intermediate,none,54,66,54,60,57,56,51,FAIL
+male,group D,some college,fluent,none,73,84,73,79,74,73,67,PASS
+female,group C,some college,intermediate,none,35,46,35,41,39,39,33,FAIL
+female,group E,associate's degree,fluent,none,67,78,67,73,70,65,69,PASS
+male,group B,some high school,fluent,none,65,76,65,71,65,63,57,PASS
+male,group E,high school,fluent,provided,74,85,74,80,74,66,71,PASS
+male,group D,associate's degree,fluent,none,73,85,73,79,74,68,72,PASS
+female,group C,high school,fluent,none,67,79,67,73,72,68,72,FAIL
+male,group D,associate's degree,fluent,provided,61,73,61,67,63,54,63,PASS
+male,group E,some high school,fluent,provided,66,77,66,72,67,64,60,PASS
+female,group B,associate's degree,intermediate,none,64,77,64,70,71,70,70,FAIL
+male,group C,high school,fluent,none,78,90,78,84,80,77,74,PASS
+female,group C,high school,fluent,none,75,87,75,81,82,79,81,PASS
+female,group C,high school,fluent,none,68,80,68,74,73,72,70,FAIL
+male,group B,some high school,fluent,provided,58,69,58,64,60,56,56,FAIL
+female,group B,some high school,fluent,provided,67,79,67,73,72,70,70,FAIL
+male,group E,some high school,fluent,provided,77,89,77,83,79,75,76,PASS
+female,group B,some college,fluent,none,74,86,74,80,79,75,78,PASS
+male,group C,associate's degree,fluent,provided,74,86,74,80,78,78,72,PASS
+male,group E,some college,fluent,none,51,62,51,57,52,51,43,FAIL
+male,group C,some college,intermediate,none,56,68,56,62,59,57,54,FAIL
+male,group C,high school,fluent,provided,82,94,82,88,84,81,80,PASS
+male,group E,associate's degree,intermediate,provided,44,56,44,50,47,43,44,FAIL
+male,group E,some high school,fluent,none,87,98,87,93,88,88,78,PASS
+female,group D,high school,fluent,none,61,73,61,67,67,61,68,FAIL
+male,group E,high school,intermediate,provided,70,82,70,76,73,68,72,PASS
+male,group C,high school,fluent,none,78,90,78,84,81,78,77,PASS
+male,group B,high school,intermediate,none,80,91,80,86,80,75,76,PASS
+male,group D,some college,fluent,provided,84,96,84,90,88,82,88,PASS
+female,group D,associate's degree,intermediate,none,54,66,54,60,61,60,58,FAIL
+female,group B,associate's degree,intermediate,none,66,78,66,72,74,76,70,FAIL
+male,group A,high school,fluent,provided,80,91,80,86,83,78,81,PASS
+male,group D,high school,fluent,provided,72,84,72,78,77,74,74,PASS
+male,group D,high school,fluent,none,72,83,72,78,76,75,71,PASS
+male,group B,high school,intermediate,none,23,34,23,29,24,24,15,FAIL
+male,group D,some college,intermediate,none,60,72,60,66,63,57,62,FAIL
+female,group C,high school,intermediate,none,51,63,51,57,58,58,54,FAIL
+male,group C,some college,fluent,none,76,88,76,82,80,78,75,PASS
+male,group D,some college,fluent,none,62,73,62,68,62,57,58,PASS
+male,group C,high school,intermediate,none,55,67,55,61,59,58,55,FAIL
+male,group D,high school,fluent,none,83,94,83,89,85,78,83,PASS
+male,group B,high school,intermediate,none,46,58,46,52,49,45,45,FAIL
+female,group C,some college,fluent,provided,80,92,80,86,85,81,84,PASS
+male,group E,high school,intermediate,provided,56,67,56,62,59,56,54,FAIL
+female,group E,high school,fluent,none,74,86,74,80,78,76,73,PASS
+female,group B,high school,intermediate,provided,53,65,53,59,58,54,58,FAIL
+male,group E,associate's degree,intermediate,provided,81,92,81,87,81,73,80,PASS
+female,group C,associate's degree,fluent,none,69,81,69,75,74,74,70,FAIL
+female,group B,some high school,fluent,provided,68,80,68,74,74,70,74,FAIL
+male,group D,associate's degree,fluent,none,69,80,69,75,70,68,64,PASS
+female,group C,high school,fluent,none,76,87,76,82,80,80,75,PASS
+male,group C,high school,fluent,provided,51,63,51,57,54,52,49,FAIL
+male,group B,some high school,fluent,provided,64,76,64,70,67,66,62,PASS
+female,group B,some college,intermediate,none,51,63,51,57,56,53,55,FAIL
+male,group A,associate's degree,intermediate,provided,81,93,81,87,85,82,82,PASS
+female,group C,associate's degree,fluent,provided,73,85,73,79,80,76,80,FAIL
+male,group D,some high school,fluent,provided,65,77,65,71,70,66,68,FAIL
+female,group D,some high school,intermediate,provided,79,91,79,85,85,86,81,PASS
+female,group C,associate's degree,fluent,provided,68,80,68,74,74,73,72,FAIL
+female,group C,associate's degree,fluent,provided,77,89,77,83,84,84,81,PASS
+male,group E,some high school,fluent,none,70,81,70,76,69,67,61,PASS
+female,group A,high school,fluent,provided,75,87,75,81,80,80,76,PASS
+female,group C,associate's degree,fluent,none,79,90,79,85,82,77,79,PASS
+male,group C,some high school,intermediate,provided,43,54,43,49,43,37,40,FAIL
+male,group C,associate's degree,fluent,none,48,59,48,54,51,51,43,FAIL
+female,group D,high school,fluent,none,64,76,64,70,68,63,66,FAIL
+male,group C,high school,fluent,provided,93,104,93,99,95,90,92,PASS
+male,group B,some college,intermediate,provided,61,72,61,67,64,62,60,FAIL
+female,group C,some college,intermediate,none,68,80,68,74,73,72,70,FAIL
+female,group C,high school,fluent,provided,89,101,89,95,96,94,95,PASS
+female,group E,associate's degree,fluent,none,70,82,70,76,74,76,67,PASS
+female,group C,high school,fluent,provided,99,110,99,105,103,100,100,PASS
+male,group B,some college,intermediate,none,41,52,41,47,44,43,39,FAIL
+male,group D,some high school,fluent,provided,72,83,72,78,74,70,69,PASS
+female,group C,high school,fluent,none,52,64,52,58,58,61,52,FAIL
+male,group D,some high school,fluent,none,63,75,63,69,67,67,61,FAIL
+male,group D,some high school,fluent,none,65,77,65,71,67,66,61,PASS
+female,group A,associate's degree,intermediate,none,75,87,75,81,82,85,76,PASS
+female,group D,some college,intermediate,none,69,81,69,75,73,65,74,PASS
+male,group D,high school,intermediate,none,38,50,38,44,40,39,34,FAIL
+male,group C,high school,fluent,none,78,89,78,84,77,75,69,PASS
+female,group C,high school,fluent,provided,79,91,79,85,86,84,85,PASS
+male,group C,some college,fluent,none,61,73,61,67,65,61,62,FAIL
+male,group B,some college,fluent,provided,65,77,65,71,70,66,68,FAIL
+female,group C,associate's degree,intermediate,provided,89,101,89,95,95,93,93,PASS
+female,group C,some college,limitted,none,31,43,31,37,38,39,33,FAIL
+male,group C,high school,fluent,provided,83,94,83,89,86,84,82,PASS
+male,group D,associate's degree,intermediate,none,76,88,76,82,79,78,73,PASS
+female,group D,some high school,fluent,none,62,74,62,68,67,67,61,FAIL
+male,group D,some high school,intermediate,none,47,58,47,53,47,42,41,FAIL
+female,group E,high school,fluent,none,88,100,88,94,94,92,91,PASS
+female,group B,some high school,intermediate,none,77,89,77,83,82,81,79,PASS
+female,group C,associate's degree,fluent,provided,79,92,79,85,86,86,84,PASS
+male,group D,some college,fluent,none,67,79,67,73,70,64,70,PASS
+female,group C,some high school,fluent,provided,83,95,83,89,88,87,85,PASS
+female,group C,high school,intermediate,provided,74,86,74,80,80,74,81,PASS
+female,group A,high school,fluent,none,67,79,67,73,73,72,70,FAIL
+female,group C,associate's degree,intermediate,none,68,80,68,74,73,73,68,FAIL
+male,group C,high school,fluent,none,57,69,57,63,59,56,55,FAIL
+female,group E,associate's degree,fluent,provided,87,99,87,93,93,88,94,PASS
+male,group C,some college,fluent,none,46,58,46,52,47,44,42,FAIL
+female,group C,associate's degree,fluent,provided,69,81,69,75,73,67,73,PASS
+male,group D,some high school,fluent,none,80,92,80,86,82,80,75,PASS
+male,group D,some college,fluent,none,81,92,81,87,82,77,77,PASS
+male,group D,high school,fluent,none,55,52,43,49,45,34,36,FAIL
+male,group C,high school,intermediate,none,57,69,57,63,60,61,52,FAIL
+male,group A,associate's degree,fluent,provided,92,100,92,98,93,92,86,PASS
+female,group E,high school,intermediate,none,42,54,42,48,46,45,40,FAIL
+male,group D,high school,fluent,none,75,86,75,81,77,73,72,PASS
+male,group C,some college,intermediate,none,75,86,75,81,78,77,73,PASS
+male,group E,associate's degree,fluent,provided,64,76,64,70,67,63,64,PASS
+female,group C,high school,fluent,none,90,102,90,96,96,93,95,PASS
+female,group B,high school,fluent,none,64,75,64,70,67,64,62,PASS
+male,group A,some college,fluent,provided,55,66,55,61,56,51,52,FAIL
+male,group A,some high school,fluent,none,39,50,39,45,39,31,36,FAIL
+female,group B,high school,fluent,none,48,60,48,54,54,52,51,FAIL
+female,group B,some college,fluent,none,63,75,63,69,66,65,61,FAIL
+female,group B,some college,fluent,none,65,77,65,71,70,67,67,FAIL
+female,group D,high school,fluent,none,54,66,54,60,57,52,55,FAIL
+other,group B,high school,fluent,none,62,74,62,68,67,68,61,FAIL
+male,group B,some high school,fluent,provided,89,100,89,95,91,86,87,PASS
+male,group C,some high school,fluent,provided,73,84,73,79,75,72,69,PASS
+male,group E,some college,intermediate,provided,51,62,51,57,55,52,51,FAIL
+male,group C,high school,intermediate,none,65,76,65,71,69,67,66,FAIL
+male,group C,high school,fluent,provided,60,71,60,66,60,58,53,PASS
+female,group B,some high school,fluent,provided,59,71,59,65,64,61,62,FAIL
+male,group A,some high school,fluent,none,52,63,52,58,52,50,43,FAIL
+male,group D,associate's degree,fluent,none,77,89,77,83,80,75,77,PASS
+male,group D,some high school,fluent,none,49,60,49,55,50,47,44,FAIL
+female,group C,some high school,fluent,provided,72,84,72,78,78,74,77,PASS
+female,group D,some high school,fluent,provided,66,78,66,72,70,60,74,FAIL
+female,group D,high school,fluent,none,80,91,80,86,84,82,79,PASS
+female,group C,associate's degree,fluent,provided,69,81,69,75,77,72,79,FAIL
+male,group D,some high school,fluent,none,58,69,58,64,60,59,54,FAIL
+female,group B,high school,fluent,none,79,91,79,85,86,86,83,PASS
+male,group B,associate's degree,intermediate,none,41,52,41,47,43,41,38,FAIL
+male,group C,some college,fluent,none,43,54,43,49,43,39,37,FAIL
+male,group C,high school,fluent,none,54,65,54,60,56,55,48,FAIL
+male,group C,some high school,intermediate,provided,59,71,59,65,63,61,60,FAIL
+female,group D,some college,intermediate,none,85,97,85,91,90,89,86,PASS
+male,group D,associate's degree,intermediate,none,78,89,78,84,80,75,78,PASS
+male,group D,some college,fluent,provided,58,70,58,64,62,59,58,FAIL
+male,group B,high school,fluent,provided,50,61,50,56,50,44,47,FAIL
+male,group E,associate's degree,fluent,provided,60,72,60,66,63,61,58,FAIL
+male,group E,some college,fluent,provided,75,87,75,81,77,74,71,PASS
+male,group B,high school,fluent,none,50,61,50,56,52,48,49,FAIL
+female,group C,high school,intermediate,none,70,82,70,76,75,76,68,PASS
+male,group A,high school,intermediate,provided,56,68,56,62,61,58,60,FAIL
+male,group D,some high school,fluent,provided,74,86,74,80,78,71,78,PASS
+male,group D,high school,fluent,none,68,79,68,74,70,66,66,PASS
+female,group B,high school,fluent,none,73,84,73,79,76,72,72,PASS
+male,group D,some high school,intermediate,provided,58,69,58,64,62,59,59,FAIL
+female,group E,high school,fluent,none,94,105,94,100,96,93,90,PASS
+female,group A,some high school,fluent,none,77,89,77,83,82,83,77,PASS
+female,group E,high school,intermediate,none,85,96,85,91,89,86,87,PASS
+female,group C,associate's degree,fluent,none,50,62,50,56,57,59,51,FAIL
+female,group B,associate's degree,intermediate,none,54,66,54,60,60,61,55,FAIL
+male,group C,some high school,fluent,none,70,81,70,76,71,72,62,PASS
+female,group A,high school,intermediate,provided,83,95,83,89,89,88,85,PASS
+female,group E,associate's degree,fluent,none,52,64,52,58,56,51,54,FAIL
+male,group D,associate's degree,fluent,none,75,87,75,81,79,79,74,PASS
+male,group C,associate's degree,fluent,provided,94,106,94,100,100,100,95,PASS
+female,group B,high school,fluent,provided,74,86,74,80,80,74,81,PASS
+male,group D,some high school,fluent,none,79,90,79,85,82,78,78,PASS
+male,group D,some college,fluent,provided,79,91,79,85,84,83,79,PASS
+male,group A,high school,fluent,none,93,105,93,99,97,96,92,PASS
+male,group D,some college,intermediate,provided,64,75,64,70,66,60,63,PASS
+male,group D,high school,intermediate,none,72,83,72,78,74,74,66,PASS
+male,group A,associate's degree,intermediate,none,53,62,50,56,55,57,44,FAIL
+male,group C,some high school,fluent,provided,69,81,69,75,73,73,68,PASS
+male,group B,high school,intermediate,none,48,60,48,54,52,51,46,FAIL
+other,group C,associate's degree,fluent,none,57,69,57,63,62,61,58,FAIL
+male,group B,some college,intermediate,none,60,72,60,66,63,60,60,FAIL
+female,group B,high school,fluent,none,80,91,80,86,85,84,80,PASS
+female,group C,some high school,intermediate,none,50,62,50,56,55,53,53,FAIL
+male,group B,high school,intermediate,provided,88,100,88,94,92,90,88,PASS
+female,group E,some college,fluent,provided,76,87,76,82,80,78,76,PASS
+male,group A,some high school,fluent,provided,43,55,43,49,46,41,43,FAIL
+male,group D,some college,fluent,none,80,91,80,86,80,73,78,PASS
+male,group D,associate's degree,fluent,none,75,86,75,81,76,75,69,PASS
+female,group C,associate's degree,fluent,none,52,63,52,58,56,53,53,FAIL
+female,group B,some high school,limitted,none,26,38,26,32,32,32,28,FAIL
+female,group C,some college,fluent,none,61,73,61,67,67,64,65,FAIL
+female,group C,some college,intermediate,provided,69,81,69,75,74,73,71,FAIL
+female,group D,high school,fluent,none,60,72,60,66,66,66,62,FAIL
+female,group C,some college,intermediate,provided,78,90,78,84,86,85,85,FAIL
+female,group C,associate's degree,fluent,none,54,66,54,60,60,58,57,FAIL
+male,group E,some high school,fluent,provided,82,94,82,88,84,84,76,PASS
+female,group E,some high school,intermediate,none,73,85,73,79,76,74,72,PASS
+male,group D,associate's degree,intermediate,none,52,63,52,58,55,54,48,FAIL
+male,group E,some high school,fluent,provided,83,95,83,89,85,84,77,PASS
+male,group D,associate's degree,intermediate,provided,80,92,80,86,84,82,80,PASS
+female,group B,associate's degree,fluent,none,59,71,59,65,64,58,65,FAIL
+female,group B,some high school,fluent,none,65,77,65,71,71,67,72,FAIL
+female,group D,some high school,fluent,none,84,96,84,90,89,90,82,PASS
+male,group D,high school,intermediate,provided,65,77,65,71,69,64,67,FAIL
+female,group D,some high school,intermediate,none,58,70,58,64,64,64,59,FAIL
+female,group D,high school,fluent,none,97,109,97,103,102,100,100,PASS
+male,group A,high school,fluent,none,68,80,68,74,71,70,66,PASS
+female,group A,associate's degree,fluent,provided,70,81,70,76,75,70,74,PASS
+male,group C,some college,fluent,none,59,70,59,65,60,59,52,PASS
+male,group B,some college,fluent,provided,86,97,86,92,89,84,86,PASS
+female,group B,associate's degree,fluent,provided,90,102,90,96,94,90,91,PASS
+female,group D,some college,intermediate,none,81,93,81,87,87,86,84,PASS
+male,group D,some college,intermediate,none,61,72,61,67,65,62,61,FAIL
+male,group C,associate's degree,intermediate,none,65,76,65,71,67,65,61,PASS
+female,group C,some high school,intermediate,none,52,63,52,58,56,56,51,FAIL
+female,group C,some high school,intermediate,provided,38,50,38,44,44,40,44,FAIL
+male,group D,some college,fluent,provided,72,84,72,78,78,77,74,PASS
+male,group B,high school,fluent,none,65,76,65,71,67,65,60,PASS
+male,group E,high school,fluent,provided,68,79,68,74,71,64,70,PASS
+male,group D,associate's degree,fluent,none,45,57,45,51,50,52,43,FAIL
+male,group E,associate's degree,fluent,provided,71,83,71,77,74,74,68,PASS
+female,group B,high school,fluent,none,62,74,62,68,66,62,63,FAIL
+female,group D,high school,intermediate,none,79,91,79,85,84,79,84,PASS
+male,group E,associate's degree,fluent,none,79,90,79,85,80,74,76,PASS
+male,group D,high school,intermediate,provided,75,87,75,81,79,71,80,PASS
+female,group E,high school,intermediate,none,52,64,52,58,57,56,54,FAIL
+male,group D,some high school,intermediate,provided,79,91,79,85,82,79,79,PASS
+female,group E,high school,fluent,provided,92,109,96,102,100,99,100,PASS
+male,group A,some high school,intermediate,none,78,90,78,84,81,82,73,PASS
+male,group C,some high school,intermediate,none,73,85,73,79,75,76,65,PASS
+male,group C,associate's degree,intermediate,provided,66,77,66,72,69,67,65,PASS
+female,group D,high school,fluent,none,59,71,59,65,64,60,63,FAIL
+male,group E,associate's degree,fluent,provided,57,68,57,63,59,56,53,FAIL
+male,group D,some college,fluent,provided,67,78,67,73,67,62,62,PASS
+female,group D,some college,fluent,none,69,80,69,75,73,70,71,PASS
+male,group B,high school,fluent,none,81,93,81,87,84,82,80,PASS
+female,group A,some college,fluent,none,78,90,78,84,85,84,82,PASS
+female,group D,high school,fluent,provided,96,108,96,102,102,99,100,PASS
+female,group C,some high school,intermediate,none,48,60,48,54,53,50,51,FAIL
+female,group A,some college,fluent,provided,85,97,85,91,91,87,91,PASS
+female,group A,some high school,intermediate,none,55,68,55,61,62,64,58,FAIL
+male,group C,high school,fluent,none,55,67,55,61,56,55,49,FAIL
+female,group C,high school,fluent,provided,66,78,66,72,71,64,74,FAIL
+female,group B,some high school,limitted,none,30,42,30,36,35,38,27,FAIL
+male,group A,some college,fluent,none,68,80,68,74,71,67,69,PASS
+male,group E,associate's degree,fluent,provided,89,100,89,95,90,82,88,PASS
+female,group C,high school,intermediate,none,38,50,38,44,43,42,39,FAIL
+female,group A,some college,intermediate,none,56,68,56,62,62,65,55,FAIL
+female,group D,some high school,fluent,none,71,83,71,77,76,71,75,PASS
+female,group C,some college,fluent,none,57,69,57,63,62,62,56,FAIL
+female,group C,associate's degree,fluent,provided,78,90,78,84,85,84,84,PASS
+male,group C,some college,fluent,none,50,61,50,56,50,49,42,FAIL
+female,group C,high school,fluent,provided,69,81,69,75,77,79,72,FAIL
+female,group C,associate's degree,fluent,none,73,85,73,79,78,80,71,PASS
+female,group B,associate's degree,fluent,provided,78,91,78,84,87,86,87,FAIL
+male,group D,high school,fluent,none,50,61,50,56,52,49,47,FAIL
+female,group C,associate's degree,intermediate,none,70,82,70,76,76,75,74,FAIL
+female,group D,some college,intermediate,provided,75,87,75,81,80,78,78,PASS
+female,group D,some college,fluent,provided,90,101,90,96,95,86,98,PASS
+male,group C,some college,intermediate,none,57,68,57,63,58,58,49,PASS
+male,group D,high school,fluent,provided,65,77,65,71,68,61,68,PASS
+female,group B,high school,fluent,none,89,101,89,95,93,95,86,PASS
+male,group C,associate's degree,fluent,none,55,66,55,61,57,54,52,FAIL
+male,group D,high school,intermediate,provided,78,90,78,84,82,77,80,PASS
+male,group E,some college,fluent,provided,76,87,76,82,76,75,68,PASS
+male,group A,associate's degree,fluent,none,51,63,51,57,54,53,47,FAIL
+female,group C,some high school,fluent,none,70,82,70,76,75,69,76,PASS
+female,group C,some high school,fluent,none,74,86,74,80,79,75,78,PASS
+female,group B,some college,fluent,none,30,42,30,36,37,38,32,FAIL
+female,group D,some high school,limitted,none,52,63,52,58,56,54,53,FAIL
+other,group A,some college,fluent,provided,84,96,84,90,90,87,90,PASS
+female,group D,associate's degree,fluent,none,89,101,89,95,94,95,89,PASS
+male,group E,high school,fluent,none,69,79,69,75,68,62,62,PASS
+female,group D,high school,fluent,none,96,100,96,102,102,100,100,PASS
+male,group D,some college,intermediate,none,68,79,68,74,68,62,64,PASS
+male,group D,some high school,fluent,provided,82,93,82,88,86,81,86,PASS
+female,group D,associate's degree,intermediate,none,61,73,61,67,66,65,63,FAIL
+male,group D,some high school,fluent,none,67,78,67,73,68,66,62,PASS
+male,group C,associate's degree,fluent,none,44,55,44,50,46,43,42,FAIL
+male,group E,high school,intermediate,provided,75,86,75,81,77,74,72,PASS
+female,group C,some college,fluent,provided,90,102,90,96,94,89,94,PASS
+male,group D,high school,fluent,none,77,89,77,83,80,80,72,PASS
+male,group C,associate's degree,fluent,provided,56,67,56,62,59,54,56,FAIL
+female,group B,associate's degree,fluent,none,80,91,80,86,82,80,77,PASS
+male,group D,high school,fluent,none,73,84,73,79,76,70,75,PASS
+male,group A,high school,intermediate,none,73,85,73,79,76,74,72,PASS
+female,group B,high school,intermediate,provided,34,47,34,40,41,44,36,FAIL
+male,group E,high school,fluent,none,67,78,67,73,70,68,64,PASS
+male,group B,associate's degree,fluent,provided,81,93,81,87,84,84,78,PASS
+female,group C,high school,intermediate,none,39,51,39,45,44,41,43,FAIL
+male,group A,high school,fluent,none,63,74,63,69,66,63,62,FAIL
+female,group E,some college,intermediate,provided,83,95,83,89,89,88,85,PASS
+male,group A,some college,fluent,none,46,58,46,52,47,43,43,FAIL
+female,group E,some college,fluent,provided,71,83,71,77,76,74,73,PASS
+male,group E,some college,fluent,none,68,80,68,74,72,72,65,PASS
+male,group B,high school,fluent,none,57,68,57,63,59,55,54,FAIL
+female,group E,some college,intermediate,provided,50,62,50,56,56,55,54,FAIL
+female,group D,some high school,fluent,none,59,70,59,65,62,58,59,FAIL
+male,group C,high school,fluent,none,68,80,68,74,71,67,67,PASS
+male,group C,some college,fluent,provided,91,100,91,97,92,86,90,PASS
+female,group C,high school,fluent,provided,97,100,97,103,102,100,99,PASS
+female,group E,high school,intermediate,provided,97,100,97,103,102,100,100,PASS
+female,group B,high school,fluent,provided,83,95,83,89,88,82,89,PASS
+female,group C,some college,intermediate,none,82,94,82,88,88,83,88,PASS
+male,group B,some high school,fluent,none,69,80,69,75,71,68,67,PASS
+male,group B,high school,intermediate,none,71,83,71,77,76,77,70,PASS
+female,group D,high school,intermediate,none,71,83,71,77,77,73,78,FAIL
+female,group D,associate's degree,intermediate,none,53,65,53,59,59,56,57,FAIL
+male,group D,high school,fluent,none,48,60,48,54,54,52,51,FAIL
+female,group C,some college,fluent,provided,80,85,75,81,79,72,76,PASS
+female,group D,some high school,fluent,none,80,92,80,86,86,86,82,PASS
+female,group D,high school,fluent,none,67,79,67,73,73,70,73,FAIL
+female,group B,associate's degree,intermediate,provided,86,98,86,92,92,94,87,PASS
+female,group B,some high school,fluent,none,79,92,79,85,87,89,82,PASS
+male,group D,high school,intermediate,provided,69,80,69,75,71,68,66,PASS
+female,group D,some college,fluent,none,86,100,86,102,92,90,89,PASS
+male,group C,high school,intermediate,none,47,59,47,53,53,56,47,FAIL
+female,group B,high school,intermediate,none,81,93,81,87,86,85,82,PASS
+male,group A,some college,intermediate,none,58,70,58,64,62,60,57,FAIL
+female,group D,some high school,fluent,none,81,93,81,87,87,84,85,PASS
+female,group D,high school,fluent,none,80,91,80,86,84,81,80,PASS
+female,group E,some college,fluent,none,73,85,73,79,78,76,75,PASS
+male,group A,high school,intermediate,none,66,78,66,72,71,72,65,FAIL
+male,group B,some college,intermediate,provided,76,87,76,82,80,77,76,PASS
+female,group C,some high school,fluent,none,56,68,56,62,62,63,56,FAIL
+male,group C,high school,intermediate,none,55,66,55,61,57,53,52,FAIL
+female,group D,some college,fluent,none,72,84,72,78,77,74,74,PASS
+male,group D,some college,fluent,none,82,94,82,88,86,82,84,PASS
+male,group C,high school,fluent,none,73,85,73,79,75,72,69,PASS
+female,group E,some college,fluent,none,96,100,96,102,98,92,97,PASS
+female,group B,high school,fluent,none,73,85,73,79,79,81,73,PASS
+female,group D,associate's degree,fluent,none,79,91,79,85,84,81,83,PASS
+male,group A,high school,fluent,none,71,82,71,77,72,67,68,PASS
+male,group D,high school,intermediate,none,47,58,47,53,49,42,48,FAIL
+male,group B,associate's degree,fluent,none,82,93,82,88,83,85,73,PASS
+female,group B,associate's degree,fluent,none,83,95,83,89,87,86,83,PASS
+male,group B,associate's degree,fluent,none,48,59,48,54,47,42,41,FAIL
+female,group B,high school,fluent,provided,65,77,65,71,71,70,68,FAIL
+female,group B,some high school,fluent,none,69,80,69,75,72,64,72,PASS
+female,group C,high school,intermediate,none,55,68,55,61,63,62,61,FAIL
+female,group C,high school,fluent,none,75,87,75,81,78,76,74,PASS
+male,group C,high school,intermediate,provided,70,81,70,76,73,66,72,PASS
+female,group C,some college,fluent,none,89,101,89,95,94,90,94,PASS
+male,group A,some college,intermediate,provided,50,62,50,56,54,47,54,FAIL
+male,group A,high school,fluent,none,49,60,49,55,50,43,47,FAIL
+male,group C,associate's degree,intermediate,none,50,62,50,56,54,51,51,FAIL
+female,group D,some college,fluent,none,54,66,54,60,59,58,54,FAIL
+female,group A,some high school,intermediate,none,41,53,41,47,46,43,43,FAIL
+female,group D,high school,fluent,none,65,76,65,71,68,67,62,PASS
+female,group C,high school,fluent,provided,60,72,60,66,66,61,66,FAIL
+male,group C,high school,fluent,none,64,75,64,70,65,60,61,PASS
+female,group B,high school,fluent,none,68,80,68,74,73,72,70,FAIL
+male,group B,high school,fluent,provided,49,60,49,55,51,49,46,FAIL
+female,group E,some college,intermediate,none,56,68,56,62,60,58,57,FAIL
+female,group C,some college,fluent,provided,91,100,91,97,96,93,93,PASS
+female,group E,associate's degree,intermediate,provided,66,78,66,72,72,68,73,FAIL
+female,group C,some high school,fluent,provided,50,62,50,56,55,51,55,FAIL
+male,group C,high school,fluent,provided,68,79,68,74,70,67,64,PASS
+female,group E,high school,intermediate,none,65,76,65,71,68,62,68,FAIL
+male,group D,associate's degree,fluent,provided,85,97,85,91,88,84,85,PASS
+male,group C,associate's degree,intermediate,none,57,68,57,63,61,61,54,FAIL
+male,group B,high school,intermediate,none,62,73,62,68,62,56,57,PASS
+female,group D,high school,intermediate,none,51,63,51,57,58,59,54,FAIL
+female,group E,high school,fluent,none,40,52,40,46,44,45,38,FAIL
+female,group B,high school,fluent,none,57,69,57,63,63,62,60,FAIL
+female,group D,some college,fluent,none,82,94,82,88,86,86,81,PASS
+female,group C,associate's degree,fluent,none,66,78,66,72,72,73,68,FAIL
+male,group C,high school,fluent,none,62,74,62,68,66,67,58,FAIL
+female,group D,associate's degree,fluent,none,65,77,65,71,70,70,65,FAIL
+male,group D,some high school,intermediate,none,54,65,54,60,55,49,52,FAIL
+female,group D,high school,fluent,provided,77,89,77,83,82,76,83,PASS
+female,group A,high school,fluent,none,54,65,54,60,58,53,58,FAIL
+female,group E,high school,intermediate,provided,73,85,73,79,78,74,78,PASS
+male,group C,some high school,fluent,none,60,72,60,66,63,64,55,FAIL
+female,group B,high school,fluent,provided,76,88,76,82,83,81,81,PASS
+female,group C,some college,fluent,none,66,78,66,72,72,67,72,FAIL
+male,group C,associate's degree,fluent,provided,78,89,78,84,80,75,77,PASS
+female,group C,some college,fluent,none,76,87,76,82,80,76,78,PASS
+male,group C,associate's degree,fluent,none,94,105,94,100,96,93,91,PASS
+female,group E,associate's degree,fluent,provided,84,96,84,90,88,85,86,PASS
+male,group B,some high school,fluent,none,82,94,82,88,84,84,75,PASS
+male,group D,high school,fluent,none,54,65,54,60,56,50,54,FAIL
+female,group E,high school,intermediate,none,60,72,60,66,63,58,62,FAIL
+female,group B,high school,intermediate,none,69,81,69,75,74,73,71,FAIL
+female,group C,high school,intermediate,provided,49,61,49,55,55,51,54,FAIL
+female,group E,high school,fluent,none,49,61,49,55,52,50,47,FAIL
+male,group B,associate's degree,fluent,none,75,87,75,81,77,73,72,PASS
+female,group B,high school,fluent,provided,76,88,76,82,82,83,78,PASS
+male,group D,high school,fluent,none,66,78,66,72,69,69,63,PASS
+female,group D,some college,intermediate,none,71,83,71,77,77,74,75,FAIL
+male,group C,some college,intermediate,provided,70,82,70,76,75,74,70,PASS
+female,group D,high school,fluent,provided,75,87,75,81,80,75,81,PASS
+male,group A,associate's degree,intermediate,none,59,71,59,65,62,61,55,FAIL
+female,group C,some high school,fluent,none,77,89,77,83,81,75,82,PASS
+female,group B,high school,fluent,none,93,104,93,99,97,95,93,PASS
+female,group E,associate's degree,intermediate,none,53,65,53,59,58,56,54,FAIL
+male,group C,associate's degree,intermediate,none,69,80,69,75,71,68,66,PASS
+male,group C,high school,intermediate,provided,68,80,68,74,74,68,75,FAIL
+female,group D,associate's degree,intermediate,none,56,67,56,62,60,59,56,FAIL
+male,group C,associate's degree,fluent,none,62,73,62,68,65,65,58,FAIL
+male,group B,associate's degree,fluent,provided,64,76,64,70,67,65,63,PASS
+female,group B,high school,fluent,none,60,71,60,66,64,62,59,FAIL
+female,group C,high school,intermediate,none,45,57,45,51,51,53,46,FAIL
+male,group C,high school,intermediate,provided,45,56,45,51,48,42,46,FAIL
+female,group D,high school,fluent,none,71,83,71,77,76,72,74,PASS
+female,group C,associate's degree,fluent,provided,86,98,86,92,90,85,90,PASS
+female,group B,high school,fluent,none,62,74,62,68,68,64,68,FAIL
+female,group B,some college,intermediate,none,62,73,62,68,66,61,66,FAIL
+male,group D,some college,fluent,none,61,72,61,67,64,63,59,FAIL
+male,group D,high school,fluent,none,79,91,79,85,82,82,74,PASS
+female,group E,high school,intermediate,none,64,76,64,70,70,72,65,FAIL
+male,group C,associate's degree,fluent,none,78,89,78,84,79,72,78,PASS
+male,group B,some college,fluent,none,71,82,71,77,72,67,67,PASS
+female,group D,high school,fluent,none,89,107,94,100,100,100,100,PASS
+female,group D,associate's degree,fluent,none,68,80,68,74,72,69,70,PASS
+female,group B,high school,fluent,none,62,74,62,68,69,65,69,FAIL
+female,group C,associate's degree,intermediate,none,67,79,67,73,74,78,67,FAIL
+male,group C,high school,fluent,provided,84,95,84,90,85,81,79,PASS
+female,group D,associate's degree,intermediate,provided,84,96,84,90,91,90,88,PASS
+male,group C,associate's degree,intermediate,none,55,67,55,61,58,55,53,FAIL
+male,group D,associate's degree,intermediate,none,71,83,71,77,73,66,73,PASS
+male,group B,some college,intermediate,none,69,81,69,75,71,68,65,PASS
+male,group E,high school,fluent,none,75,86,75,81,76,73,69,PASS
+female,group C,some college,fluent,provided,74,86,74,80,81,78,80,FAIL
+male,group C,associate's degree,intermediate,provided,69,80,69,75,73,73,68,PASS
+female,group B,high school,fluent,none,73,84,73,79,76,72,74,PASS
+female,group D,high school,fluent,provided,75,87,75,81,80,77,78,PASS
+female,group A,some high school,intermediate,none,52,64,52,58,57,59,50,FAIL
+male,group E,high school,fluent,none,74,85,74,80,75,76,65,PASS
+male,group E,associate's degree,intermediate,provided,98,109,98,104,100,100,93,PASS
+other,group D,high school,fluent,none,86,98,86,92,90,84,89,PASS
+female,group C,associate's degree,fluent,provided,77,89,77,83,82,75,83,PASS
+male,group B,high school,fluent,none,63,74,63,69,67,68,60,FAIL
+female,group D,some college,fluent,provided,92,104,92,98,98,97,96,PASS
+male,group C,some college,fluent,provided,79,90,79,85,82,79,78,PASS
+female,group C,some college,fluent,provided,82,95,82,88,90,90,88,PASS
+female,group D,some college,intermediate,none,65,77,65,71,72,71,69,FAIL
+female,group D,high school,fluent,none,63,75,63,69,69,64,70,FAIL
+female,group B,high school,fluent,none,53,64,53,59,57,53,55,FAIL
+female,group E,some college,intermediate,none,72,84,72,78,76,76,70,PASS
+male,group A,high school,limitted,none,47,59,47,53,51,47,49,FAIL
+male,group E,associate's degree,fluent,provided,87,98,87,93,88,85,82,PASS
+female,group D,high school,intermediate,none,69,81,69,75,75,72,74,FAIL
+female,group E,high school,fluent,none,75,87,75,81,79,81,71,PASS
+female,group E,associate's degree,fluent,none,90,102,90,96,96,95,92,PASS
+male,group D,high school,limitted,provided,40,51,40,46,43,42,38,FAIL
+female,group D,some high school,fluent,none,76,88,76,82,83,82,81,PASS
+female,group C,high school,fluent,none,70,82,70,76,75,69,75,PASS
+female,group C,high school,intermediate,none,50,62,50,56,58,61,54,FAIL
+male,group D,high school,intermediate,none,70,81,70,76,74,74,69,PASS
+female,group D,associate's degree,intermediate,provided,88,100,88,94,95,89,98,PASS
+male,group B,high school,fluent,none,52,63,52,58,54,48,51,FAIL
+male,group B,some college,fluent,none,51,62,51,57,52,50,45,FAIL
+female,group A,associate's degree,fluent,provided,61,73,61,67,66,65,62,FAIL
+female,group D,some college,fluent,none,65,76,65,71,69,64,67,FAIL
+female,group A,associate's degree,limitted,none,50,62,50,56,58,57,56,FAIL
+female,group C,associate's degree,fluent,none,55,66,55,61,59,55,57,FAIL
+male,group C,high school,fluent,none,88,99,88,94,91,89,86,PASS
+male,group A,some high school,intermediate,provided,61,73,61,67,65,62,61,FAIL
+male,group D,some college,fluent,none,57,68,57,63,56,49,52,PASS
+female,group D,associate's degree,fluent,provided,76,88,76,82,80,75,80,PASS
+female,group C,high school,fluent,none,73,85,73,79,80,75,81,FAIL
+male,group E,associate's degree,intermediate,none,57,69,57,63,58,56,52,FAIL
+male,group C,high school,intermediate,none,62,74,62,68,68,72,59,FAIL
+male,group E,high school,fluent,none,65,76,65,71,65,64,57,PASS
+female,group C,high school,fluent,provided,66,78,66,72,72,64,75,FAIL
+female,group B,high school,fluent,none,62,74,62,68,67,68,61,FAIL
+male,group B,high school,fluent,none,68,79,68,74,73,71,69,FAIL
+female,group D,high school,intermediate,provided,93,105,93,99,99,95,100,PASS
+female,group C,high school,intermediate,provided,76,88,76,82,83,81,81,PASS
+female,group B,associate's degree,fluent,none,49,60,49,55,53,49,50,FAIL
+female,group C,some high school,intermediate,provided,72,84,72,78,78,76,75,PASS
+female,group A,high school,intermediate,provided,41,53,41,47,47,48,41,FAIL
+female,group A,high school,intermediate,provided,54,66,54,60,58,50,60,FAIL
+female,group C,some college,fluent,none,70,82,70,76,76,74,74,FAIL
+female,group A,some high school,limitted,none,45,56,45,51,48,45,45,FAIL
+male,group C,associate's degree,intermediate,none,69,80,69,75,70,67,64,PASS
+female,group E,high school,fluent,none,71,83,71,77,76,73,75,PASS
+female,group D,high school,fluent,provided,72,83,72,78,76,71,74,PASS
+male,group C,associate's degree,fluent,provided,92,103,92,98,93,87,90,PASS
+male,group E,associate's degree,intermediate,none,87,99,87,93,90,90,82,PASS
+female,group D,some high school,fluent,none,91,103,91,97,98,97,96,PASS
+female,group E,associate's degree,fluent,none,76,97,85,91,88,92,85,PASS
+male,group D,associate's degree,fluent,none,66,77,66,72,67,66,60,PASS
+female,group E,high school,fluent,provided,66,78,66,72,71,63,75,FAIL
+female,group C,some college,intermediate,none,41,53,41,47,46,44,43,FAIL
+male,group D,some high school,fluent,provided,79,90,79,85,79,74,75,PASS
+female,group C,high school,fluent,none,86,98,86,92,91,88,90,PASS
+female,group D,some college,intermediate,none,79,91,79,85,85,83,83,PASS
+male,group D,some high school,fluent,none,73,85,73,79,76,74,72,PASS
+male,group D,high school,intermediate,provided,76,88,76,82,80,79,75,PASS
+male,group E,some college,fluent,none,58,69,58,64,59,57,52,PASS
+male,group A,some college,limitted,none,23,35,23,29,25,23,19,FAIL
+male,group E,some college,intermediate,provided,77,88,77,83,77,74,70,PASS
+male,group E,some college,fluent,provided,89,100,89,95,89,87,81,PASS
+male,group E,some high school,intermediate,provided,80,92,80,86,84,83,80,PASS
+female,group D,high school,intermediate,provided,57,69,57,63,64,58,67,FAIL
+male,group C,associate's degree,fluent,none,71,83,71,77,73,70,68,PASS
+male,group D,some high school,fluent,provided,86,98,86,92,89,88,82,PASS
+male,group E,some high school,intermediate,provided,66,78,66,72,67,67,59,PASS
+female,group C,high school,intermediate,none,63,75,63,69,70,72,64,FAIL
+male,group B,high school,fluent,none,45,56,45,51,48,46,42,FAIL
+male,group D,some college,fluent,provided,99,110,99,105,102,97,99,PASS
+female,group C,some high school,intermediate,provided,57,69,57,63,62,60,60,FAIL
+female,group C,some college,intermediate,none,62,73,62,68,66,62,64,FAIL
+female,group C,high school,intermediate,provided,83,95,83,89,89,86,89,PASS
+female,group D,high school,intermediate,none,39,51,39,45,46,41,47,FAIL
+male,group C,high school,intermediate,none,54,66,54,60,58,59,50,FAIL
+male,group D,high school,intermediate,none,68,79,68,74,71,68,67,PASS
+female,group A,some college,intermediate,none,59,71,59,65,62,60,57,FAIL
+female,group D,some high school,fluent,none,73,84,73,79,75,72,71,PASS
+female,group D,some high school,fluent,provided,87,99,87,93,92,92,88,PASS
+female,group A,some college,fluent,none,65,77,65,71,71,70,67,FAIL
+male,group A,high school,fluent,none,70,81,70,76,73,74,64,PASS
+male,group C,some high school,intermediate,provided,53,65,53,59,57,56,53,FAIL
+male,group D,some college,intermediate,none,61,73,61,67,64,61,60,FAIL
+female,group D,some high school,intermediate,provided,50,62,50,56,58,55,60,FAIL
+female,group E,some high school,fluent,provided,83,95,83,89,88,85,85,PASS
+female,group B,high school,intermediate,none,83,95,83,89,88,85,87,PASS
+female,group D,high school,fluent,provided,60,71,60,66,64,58,64,FAIL
+male,group B,some high school,fluent,provided,81,92,81,87,83,83,75,PASS
+male,group D,high school,intermediate,none,65,77,65,71,69,66,67,FAIL
+female,group C,high school,limitted,none,29,41,29,35,33,29,30,FAIL
+male,group D,some college,fluent,provided,60,72,60,66,63,55,63,FAIL
+female,group C,associate's degree,fluent,none,72,84,72,78,78,76,76,PASS
+female,group C,high school,fluent,provided,86,98,86,92,91,91,87,PASS
+female,group C,high school,intermediate,provided,77,90,77,83,84,83,83,PASS
+female,group C,some high school,fluent,provided,73,85,73,79,78,74,77,PASS
+female,group C,some high school,fluent,none,68,80,68,74,73,73,68,FAIL
+male,group E,associate's degree,fluent,none,66,78,66,72,68,64,63,PASS
+female,group C,high school,intermediate,provided,60,72,60,66,67,66,64,FAIL
+male,group E,high school,fluent,none,94,99,88,94,91,85,84,PASS
+male,group B,high school,fluent,provided,71,82,71,77,73,71,68,PASS
+male,group E,associate's degree,intermediate,provided,71,83,71,77,73,69,68,PASS
+female,group C,high school,fluent,provided,70,82,70,76,77,75,77,FAIL
+male,group D,high school,fluent,none,74,86,74,80,77,73,74,PASS
+female,group C,some college,fluent,provided,74,86,74,80,78,71,80,PASS
+female,group C,associate's degree,fluent,provided,79,91,79,85,86,84,86,PASS
+male,group D,some high school,fluent,provided,69,81,69,75,72,69,68,PASS
+male,group B,some high school,intermediate,none,48,60,48,54,52,52,45,FAIL
+male,group D,some college,fluent,none,73,85,73,79,76,71,73,PASS
+female,group B,associate's degree,fluent,none,65,77,65,71,71,69,68,FAIL
+male,group D,some college,fluent,none,55,67,55,61,58,58,52,FAIL
+male,group B,associate's degree,fluent,none,59,70,59,65,60,54,57,PASS
+female,group D,high school,intermediate,none,87,99,87,93,93,90,93,PASS
+female,group C,high school,fluent,provided,90,99,88,94,94,92,89,PASS
+male,group D,high school,fluent,none,80,91,80,86,81,78,75,PASS
+female,group D,high school,intermediate,provided,70,82,70,76,76,71,78,FAIL
+female,group D,associate's degree,intermediate,provided,69,81,69,75,76,74,76,FAIL
+female,group C,associate's degree,fluent,none,87,98,87,93,89,86,84,PASS
+female,group B,associate's degree,fluent,none,76,88,76,82,81,76,80,PASS
+female,group B,some high school,intermediate,provided,64,76,64,70,71,67,72,FAIL
+male,group C,some high school,intermediate,provided,64,76,64,70,69,69,65,FAIL
+female,group D,some high school,limitted,none,31,43,31,37,36,34,32,FAIL
+female,group C,high school,limitted,none,59,71,59,65,65,65,61,FAIL
+female,group D,high school,fluent,none,78,90,78,84,83,79,82,PASS
+male,group D,associate's degree,fluent,none,87,99,87,93,90,87,85,PASS
+male,group B,some college,fluent,provided,93,104,93,99,97,96,91,PASS
+female,group E,associate's degree,intermediate,none,76,87,76,82,80,76,78,PASS
+female,group C,associate's degree,fluent,none,53,66,53,59,61,64,57,FAIL
+female,group D,some high school,fluent,none,70,83,70,76,77,72,80,FAIL
+female,group A,some college,fluent,none,61,73,61,67,67,63,67,FAIL
+male,group D,associate's degree,intermediate,none,64,75,64,70,67,62,64,PASS
+female,group B,associate's degree,fluent,none,77,89,77,83,82,83,76,PASS
+female,group A,some college,fluent,provided,78,90,78,84,83,79,82,PASS
+male,group A,some college,intermediate,none,77,88,77,83,81,81,74,PASS
+male,group B,associate's degree,intermediate,none,57,68,57,63,60,56,57,FAIL
+male,group A,associate's degree,fluent,none,62,73,62,68,65,61,61,FAIL
+male,group C,associate's degree,fluent,none,72,83,72,78,76,77,69,PASS
+male,group D,some high school,fluent,provided,71,83,71,77,73,68,69,PASS
+male,group C,high school,fluent,provided,55,66,55,61,57,52,54,FAIL
+female,group C,some college,fluent,none,67,78,67,73,72,69,69,FAIL
+male,group A,some high school,fluent,provided,48,60,48,54,52,49,49,FAIL
+female,group D,associate's degree,fluent,none,74,86,74,80,77,74,73,PASS
+female,group C,associate's degree,fluent,none,72,84,72,78,78,77,74,PASS
+female,group D,some college,intermediate,provided,71,83,71,77,78,78,76,FAIL
+female,group D,some high school,intermediate,none,78,91,78,84,85,84,84,PASS
+female,group D,some high school,fluent,none,58,70,58,64,64,63,61,FAIL
+male,group D,high school,intermediate,provided,88,99,88,94,92,89,90,PASS
+female,group C,associate's degree,fluent,provided,97,109,97,103,101,96,99,PASS
+male,group C,associate's degree,intermediate,provided,80,92,80,86,84,81,82,PASS
+other,group A,high school,intermediate,provided,41,53,41,47,47,48,41,FAIL
+female,group A,some high school,fluent,none,60,72,60,66,67,66,65,FAIL
+male,group B,high school,intermediate,none,60,72,60,66,63,63,56,FAIL
+male,group B,,fluent,none,44,55,44,50,46,43,41,FAIL
+male,group E,some high school,fluent,none,86,97,86,92,87,87,78,PASS
+male,group B,some high school,fluent,provided,66,77,66,72,70,67,67,FAIL
+male,group A,some high school,fluent,none,61,72,61,67,61,62,50,PASS
+male,group E,high school,fluent,none,79,90,79,85,78,73,71,PASS
+female,group D,,fluent,none,73,84,73,79,77,72,77,PASS
+female,group C,high school,intermediate,provided,58,71,58,64,65,62,66,FAIL
+male,group E,associate's degree,fluent,none,80,91,80,86,80,76,74,PASS
+female,group B,high school,intermediate,none,78,89,78,84,81,79,76,PASS
+male,group C,some college,intermediate,none,66,77,66,72,68,68,61,PASS
+female,group D,high school,fluent,none,69,81,69,75,75,70,75,FAIL
+female,group C,associate's degree,fluent,provided,82,94,82,88,88,82,90,PASS
+female,group B,associate's degree,fluent,none,62,74,62,68,67,63,65,FAIL
+female,group D,associate's degree,fluent,none,88,100,88,94,93,91,89,PASS
+male,group C,high school,fluent,none,76,87,76,82,79,81,71,PASS
+female,group A,high school,fluent,none,67,79,67,73,74,73,73,FAIL
+male,group D,some high school,fluent,none,76,87,76,82,76,73,70,PASS
+male,group C,associate's degree,intermediate,provided,46,58,46,52,50,45,50,FAIL
+female,group C,high school,fluent,none,58,70,58,64,63,59,62,FAIL
+female,group B,some high school,intermediate,provided,73,85,73,79,80,78,79,FAIL
+male,group C,some high school,fluent,none,68,80,68,74,70,66,66,PASS
+female,group A,associate's degree,fluent,none,89,101,89,95,95,93,93,PASS
+male,group B,some college,intermediate,none,52,64,52,58,55,55,47,FAIL
+male,group D,some high school,intermediate,none,54,65,54,60,57,54,52,FAIL
+male,group C,some college,fluent,none,80,91,80,86,80,74,76,PASS
+female,group C,associate's degree,fluent,none,90,101,90,96,95,89,95,PASS
+female,group D,some college,fluent,provided,76,88,76,82,82,79,81,PASS
+male,group D,some college,fluent,none,63,74,63,69,65,59,62,PASS
+female,group D,some college,intermediate,none,58,70,58,64,65,65,61,FAIL
+female,group D,some college,fluent,none,82,94,82,88,88,89,84,PASS
+male,group C,high school,fluent,none,67,79,67,73,69,66,65,PASS
+male,group E,associate's degree,fluent,none,46,57,46,52,47,45,40,FAIL
+male,group C,associate's degree,fluent,none,81,93,81,87,84,80,80,PASS
+female,group C,some college,intermediate,provided,71,82,71,77,75,75,70,PASS
+male,group D,high school,intermediate,none,48,60,48,54,49,46,44,FAIL
+male,group A,high school,intermediate,provided,68,79,68,74,70,67,65,PASS
+female,group D,some college,fluent,none,99,100,99,105,103,100,99,PASS
+male,group B,some college,intermediate,none,51,62,51,57,53,54,45,FAIL
+male,group C,some high school,fluent,none,57,69,57,63,61,61,54,FAIL
+female,group C,some high school,intermediate,none,77,89,77,83,84,86,80,PASS
+male,group C,high school,fluent,none,85,97,85,91,88,83,86,PASS
+male,group E,some college,fluent,,89,100,89,95,89,87,82,PASS
+female,group E,some college,fluent,,88,100,88,94,92,85,93,PASS
+female,group D,some college,fluent,provided,78,90,78,84,83,77,83,PASS
+male,group C,associate's degree,fluent,none,85,96,85,91,86,79,84,PASS
+male,group A,some high school,fluent,none,52,63,52,58,55,54,48,FAIL
+female,group C,some high school,fluent,none,85,97,85,91,91,91,88,PASS
+male,group D,some college,fluent,none,50,62,50,56,56,54,53,FAIL
+female,group B,high school,fluent,provided,73,85,73,79,78,76,74,PASS
+female,group E,some high school,intermediate,none,35,46,35,41,39,34,38,FAIL
+female,group C,some high school,limitted,none,9,21,9,15,15,17,10,FAIL
+male,group C,some high school,fluent,provided,60,71,60,66,62,60,57,FAIL
+male,group A,high school,fluent,none,61,72,61,67,63,60,58,FAIL
+male,group D,associate's degree,fluent,none,69,80,69,75,68,63,63,PASS
+female,group C,associate's degree,fluent,none,56,68,56,62,60,62,53,FAIL
+female,group D,associate's degree,intermediate,none,32,44,32,38,37,31,38,FAIL
+female,group D,associate's degree,fluent,none,71,83,71,77,77,76,74,FAIL
+male,group E,high school,fluent,provided,86,98,86,92,89,91,81,PASS
+female,group D,some high school,fluent,provided,75,87,75,81,82,78,82,PASS
+male,group C,high school,fluent,none,47,58,47,53,49,48,42,FAIL
+male,group E,high school,fluent,provided,94,111,99,105,101,100,100,PASS
+male,group C,some high school,fluent,none,67,79,67,73,69,66,63,PASS
+female,group C,high school,limitted,none,44,56,44,50,50,53,43,FAIL
+male,group C,some high school,fluent,none,58,69,58,64,59,58,51,FAIL
+female,group B,some college,fluent,provided,92,103,92,98,96,95,92,PASS
+female,group B,high school,intermediate,none,67,79,67,73,72,72,68,FAIL
+female,group D,associate's degree,intermediate,none,53,65,53,59,58,53,58,FAIL
+male,group B,high school,fluent,provided,70,81,70,76,72,69,68,PASS
+male,group E,some college,fluent,none,77,89,77,83,78,77,71,PASS
+male,group E,high school,fluent,provided,68,79,68,74,69,62,66,PASS
+female,group C,high school,intermediate,provided,67,80,67,73,76,72,79,FAIL
+female,group C,associate's degree,fluent,none,64,76,64,70,69,66,67,FAIL
+female,group B,some high school,intermediate,none,54,66,54,60,59,58,55,FAIL
+male,group C,high school,intermediate,none,63,74,63,69,67,66,61,FAIL
+female,group C,some college,fluent,none,63,75,63,69,69,69,65,FAIL
+female,group A,high school,intermediate,none,63,76,63,69,71,67,73,FAIL
+female,group B,some high school,intermediate,provided,62,74,62,68,66,63,64,FAIL
+male,group B,some college,intermediate,none,38,49,38,44,40,39,34,FAIL
+male,group D,some high school,fluent,none,83,94,83,89,86,84,80,PASS
+female,group C,high school,intermediate,,55,67,55,61,62,62,60,FAIL
+female,group C,associate's degree,fluent,none,93,100,93,99,97,95,94,PASS
+female,group E,high school,fluent,none,69,81,69,75,74,73,70,FAIL
+male,group E,some college,fluent,none,62,74,62,68,64,60,59,PASS
+female,group B,some college,fluent,none,86,98,86,92,91,86,92,PASS
+female,group B,high school,intermediate,provided,61,73,61,67,68,70,62,FAIL
+male,group C,some college,fluent,none,84,96,84,90,87,87,81,PASS
+female,group B,some high school,fluent,none,81,93,81,87,84,82,80,PASS
+male,group D,high school,fluent,none,86,98,86,92,90,84,89,PASS
+female,group C,some college,fluent,none,56,68,56,62,61,58,58,FAIL
+female,group C,associate's degree,intermediate,none,72,84,72,78,78,77,74,PASS
+female,group D,associate's degree,fluent,none,76,87,76,82,79,77,73,PASS
+male,group C,high school,fluent,none,59,70,59,65,59,56,51,PASS
+male,group C,associate's degree,fluent,provided,56,68,56,62,61,60,58,FAIL
+male,group D,high school,fluent,provided,48,59,48,54,49,41,48,FAIL
+male,group B,high school,intermediate,none,51,63,51,57,55,53,52,FAIL
+female,group C,associate's degree,intermediate,provided,65,77,65,71,71,68,70,FAIL
+male,group E,some college,intermediate,none,89,100,89,95,91,90,83,PASS
+female,group C,some high school,intermediate,provided,73,85,73,79,80,79,77,FAIL
+male,group D,high school,fluent,none,82,94,82,88,86,81,84,PASS
+male,group B,high school,intermediate,none,56,68,56,62,60,59,54,FAIL
+male,group C,some college,fluent,none,59,71,59,65,62,60,58,FAIL
+male,group D,associate's degree,intermediate,provided,80,82,71,77,78,71,73,FAIL
+female,group C,associate's degree,fluent,none,66,78,66,72,70,64,70,FAIL
+female,group D,some college,fluent,provided,76,88,76,82,80,75,79,PASS
+female,group E,associate's degree,fluent,provided,92,103,92,98,94,89,92,PASS
+male,group C,high school,fluent,none,70,81,70,76,70,66,64,PASS
+female,group E,some high school,intermediate,none,76,88,76,82,81,79,77,PASS
+female,group E,high school,fluent,none,100,112,100,106,103,100,100,PASS
+male,group D,high school,fluent,none,70,82,70,76,73,70,70,PASS
+female,group E,high school,fluent,provided,90,105,93,99,98,99,95,PASS
+male,group B,associate's degree,intermediate,provided,78,89,78,84,80,78,74,PASS
+female,group E,some high school,fluent,none,79,90,79,85,83,79,80,PASS
+male,group D,some college,fluent,provided,67,78,67,73,69,61,69,PASS
+male,group B,associate's degree,intermediate,none,63,74,63,69,65,62,60,PASS
+female,group C,some college,fluent,provided,92,104,92,98,97,95,94,PASS
+female,group E,associate's degree,fluent,none,100,100,100,106,103,100,100,PASS
+male,group C,high school,fluent,none,72,83,72,78,76,74,71,PASS
+male,group D,associate's degree,intermediate,none,53,65,53,59,57,57,50,FAIL
+male,group C,high school,intermediate,none,59,70,59,65,61,60,55,FAIL
+female,group E,some college,fluent,provided,68,80,68,74,73,72,70,FAIL
+male,group B,some college,fluent,none,64,75,64,70,66,65,60,PASS
+male,group C,some high school,fluent,provided,76,88,76,82,80,80,73,PASS
+female,group D,some high school,fluent,provided,99,100,99,105,103,100,100,PASS
+male,group C,some college,fluent,none,47,58,47,53,47,41,42,FAIL
+male,group C,associate's degree,intermediate,none,63,75,63,69,66,66,59,FAIL
+male,group A,high school,fluent,provided,73,85,73,79,77,73,74,PASS
+male,group D,associate's degree,fluent,none,75,86,75,81,76,71,73,PASS
+male,group D,high school,fluent,none,53,64,53,59,56,52,52,FAIL
+female,group C,some college,fluent,none,78,90,78,84,83,80,82,PASS
+female,group B,some high school,intermediate,provided,84,96,84,90,91,90,88,PASS
+male,group D,high school,fluent,none,85,96,85,91,87,87,79,PASS
+male,group C,high school,limitted,,32,44,32,38,37,34,36,FAIL
+other,group C,some high school,fluent,none,77,89,77,83,81,75,82,PASS
+male,group C,high school,intermediate,provided,45,57,45,51,50,46,50,FAIL
+female,group C,some college,fluent,none,85,97,85,91,89,83,90,PASS
+male,group B,high school,fluent,none,55,66,55,61,57,54,51,FAIL
+female,group D,high school,fluent,none,63,75,63,69,67,64,64,FAIL
+female,group B,some high school,fluent,none,77,89,77,83,82,79,79,PASS
+female,group C,some college,fluent,none,67,79,67,73,73,71,70,FAIL
+female,group D,high school,fluent,none,88,100,88,94,95,91,96,PASS
+male,group C,high school,fluent,provided,71,82,71,77,73,69,68,PASS
+female,group E,some college,fluent,none,62,74,62,68,66,64,62,FAIL
+female,group B,high school,fluent,none,69,81,69,75,74,72,70,PASS
+male,group A,high school,intermediate,none,52,63,52,58,55,58,44,FAIL
+male,group D,some college,intermediate,none,65,76,65,71,67,66,60,PASS
+male,group D,high school,intermediate,none,56,67,56,62,58,57,51,FAIL
+female,group C,some high school,fluent,provided,60,72,60,66,64,54,67,FAIL
+male,group D,associate's degree,fluent,none,52,64,52,58,55,55,49,FAIL
+male,group B,some college,fluent,provided,72,84,72,78,76,75,70,PASS
+female,group B,associate's degree,fluent,provided,65,77,65,71,70,70,66,FAIL
+male,group A,some college,fluent,provided,73,85,73,79,75,72,70,PASS
+female,group D,high school,intermediate,provided,66,77,66,72,69,61,71,PASS
+male,group C,high school,fluent,none,51,63,51,57,54,53,49,FAIL
+male,group B,some high school,intermediate,provided,65,64,54,60,59,50,52,FAIL
+female,group D,some college,intermediate,none,62,74,62,68,67,67,62,FAIL
+female,group D,some college,fluent,provided,85,97,85,91,90,84,91,PASS
+female,group D,some college,intermediate,provided,65,77,65,71,70,63,73,FAIL
+other,group B,some high school,fluent,provided,82,94,82,88,87,82,86,PASS
+male,group D,high school,intermediate,none,59,70,59,65,61,57,56,FAIL
+male,group C,high school,intermediate,none,64,75,64,70,66,66,59,PASS
+male,group D,associate's degree,intermediate,none,84,95,84,90,85,87,75,PASS
+male,group C,some college,intermediate,none,70,81,70,76,70,64,66,PASS
+female,group C,associate's degree,fluent,none,67,78,67,73,71,67,70,FAIL
+male,group B,some high school,fluent,provided,82,94,82,88,85,84,78,PASS
+male,group E,some high school,fluent,provided,77,88,77,83,80,76,77,PASS
+female,group C,some college,fluent,provided,82,95,82,88,90,89,88,PASS
+male,group B,high school,fluent,none,55,66,55,61,57,58,47,FAIL
+male,group D,high school,intermediate,none,48,59,48,54,52,51,48,FAIL
+female,group B,some high school,limitted,provided,42,54,42,48,49,51,44,FAIL
+male,group D,some college,intermediate,none,51,62,51,57,55,57,46,FAIL
+female,group C,high school,fluent,none,78,90,78,84,84,80,83,PASS
+male,group E,some college,fluent,provided,82,93,82,88,84,83,78,PASS
+female,group E,high school,intermediate,provided,68,81,68,74,75,75,73,FAIL
+female,group D,high school,intermediate,provided,98,109,98,104,103,100,100,PASS
+male,group C,high school,fluent,none,78,89,78,84,80,78,73,PASS
+female,group C,some college,intermediate,none,86,98,86,92,92,90,91,PASS
+female,group C,high school,fluent,none,88,100,88,94,92,92,87,PASS
+male,group B,some college,fluent,none,59,70,59,65,59,54,55,PASS
+male,group B,associate's degree,fluent,provided,91,100,91,97,94,89,92,PASS
+female,group C,associate's degree,intermediate,none,59,71,59,65,64,61,62,FAIL
+male,group B,some high school,fluent,provided,49,60,49,55,51,54,41,FAIL
+female,group C,some college,intermediate,none,64,75,64,70,68,67,62,FAIL
+female,group C,high school,fluent,none,66,78,66,72,72,72,68,FAIL
+male,group D,high school,fluent,none,46,58,46,52,50,48,46,FAIL
+female,group C,some college,fluent,none,87,99,87,93,92,87,91,PASS
+female,group B,some college,intermediate,provided,64,76,64,70,71,66,73,FAIL
+female,group D,high school,fluent,none,73,85,73,79,78,77,73,PASS
+male,group C,some college,limitted,none,30,41,30,36,32,28,27,FAIL
+female,group C,high school,fluent,none,69,81,69,75,74,69,74,FAIL
+female,group D,high school,intermediate,none,46,58,46,52,51,52,46,FAIL
+female,group A,some high school,intermediate,none,67,79,67,73,73,73,69,FAIL
+female,group C,high school,limitted,provided,62,74,62,68,68,64,67,FAIL
+female,group B,some college,fluent,none,85,96,85,91,89,85,87,PASS
+male,group D,high school,fluent,none,49,60,49,55,51,52,42,FAIL
+male,group A,high school,intermediate,none,45,56,45,51,47,45,41,FAIL
+male,group C,associate's degree,fluent,none,77,88,77,83,78,76,71,PASS
+male,group A,some college,intermediate,provided,80,92,80,86,83,78,81,PASS
+male,group C,associate's degree,fluent,none,40,51,40,46,41,37,35,FAIL
+female,group A,some college,fluent,none,59,71,59,65,64,58,64,FAIL
+female,group B,high school,intermediate,none,49,62,49,55,56,60,50,FAIL
+female,group D,some college,intermediate,provided,74,87,74,80,81,80,80,FAIL
+male,group B,high school,intermediate,none,53,64,53,59,53,48,47,FAIL
+female,group C,some high school,fluent,provided,90,102,90,96,95,92,93,PASS
+female,group B,bachelor's degree,fluent,none,73,84,73,79,76,72,74,PASS
+male,group D,bachelor's degree,intermediate,provided,75,87,75,81,79,71,80,PASS
+female,group C,bachelor's degree,fluent,none,70,82,70,76,75,69,75,PASS
+other,group E,bachelor's degree,intermediate,provided,75,86,75,81,77,74,72,PASS
+male,group A,bachelor's degree,fluent,provided,80,91,80,86,83,78,81,PASS
+female,group C,bachelor's degree,fluent,none,70,82,70,76,75,72,74,PASS
+female,group D,bachelor's degree,fluent,none,65,76,65,71,68,67,62,PASS
+male,group D,bachelor's degree,fluent,provided,72,84,72,78,77,74,74,PASS
+female,group E,bachelor's degree,fluent,provided,100,111,100,106,103,100,100,PASS
+female,group B,bachelor's degree,intermediate,none,81,93,81,87,86,85,82,PASS
+other,group D,bachelor's degree,fluent,none,80,91,80,86,84,82,79,PASS
+female,group C,bachelor's degree,fluent,provided,87,99,87,93,93,92,89,PASS
+female,group A,bachelor's degree,fluent,none,50,62,50,56,53,49,51,FAIL
+male,group D,bachelor's degree,intermediate,provided,76,88,76,82,80,79,75,PASS
+male,group C,bachelor's degree,fluent,none,54,65,54,60,56,55,48,FAIL
+female,group D,bachelor's degree,fluent,provided,75,87,75,81,80,75,81,PASS
+male,group A,bachelor's degree,fluent,none,71,82,71,77,72,67,68,PASS
+male,group D,bachelor's degree,fluent,none,50,61,50,56,52,49,47,FAIL
+female,group C,bachelor's degree,fluent,provided,99,100,99,105,103,100,100,PASS
+female,group C,bachelor's degree,intermediate,provided,49,61,49,55,55,51,54,FAIL
+female,group C,,fluent,none,84,96,84,90,90,88,87,PASS
+female,group B,bachelor's degree,intermediate,none,78,89,78,84,81,79,76,PASS
+male,group E,bachelor's degree,fluent,,69,79,69,75,68,62,62,PASS
+female,group B,bachelor's degree,fluent,none,79,91,79,85,86,86,83,PASS
+male,group C,bachelor's degree,fluent,provided,83,95,83,89,86,82,84,PASS
+male,group D,bachelor's degree,intermediate,none,65,77,65,71,69,66,67,FAIL
+female,group E,bachelor's degree,fluent,none,82,94,82,88,86,83,83,PASS
+female,group C,bachelor's degree,fluent,none,73,85,73,79,80,75,81,FAIL
+male,group C,bachelor's degree,fluent,none,64,76,64,70,66,63,61,PASS
+male,group C,bachelor's degree,fluent,none,78,89,78,84,80,78,73,PASS
+male,group B,bachelor's degree,intermediate,none,62,73,62,68,62,56,57,PASS
+female,group D,,intermediate,none,79,91,79,85,84,79,84,PASS
+male,group B,bachelor's degree,intermediate,none,80,91,80,86,80,75,76,PASS
+female,group E,bachelor's degree,fluent,none,71,83,71,77,76,73,75,PASS
+other,group B,bachelor's degree,fluent,none,61,72,61,67,63,60,57,PASS
+male,group D,bachelor's degree,fluent,provided,65,77,65,71,68,61,68,PASS
+female,group C,bachelor's degree,fluent,provided,66,78,66,72,72,64,75,FAIL
+male,group B,bachelor's degree,fluent,none,68,79,68,74,73,71,69,FAIL
+female,group C,bachelor's degree,fluent,none,90,102,90,96,96,93,95,PASS
+female,group C,bachelor's degree,fluent,provided,89,101,89,95,96,94,95,PASS
+female,group B,bachelor's degree,fluent,none,62,74,62,68,69,65,69,FAIL
+female,group B,bachelor's degree,fluent,none,68,80,68,74,73,72,70,FAIL
+male,group A,bachelor's degree,intermediate,provided,56,68,56,62,61,58,60,FAIL
+male,group C,bachelor's degree,intermediate,none,63,74,63,69,67,66,61,FAIL
+female,group D,bachelor's degree,fluent,none,67,79,67,73,73,70,73,FAIL
+male,group A,bachelor's degree,fluent,none,64,75,64,70,67,64,62,PASS
+female,group E,bachelor's degree,fluent,none,69,81,69,75,74,73,70,FAIL
+female,group C,bachelor's degree,intermediate,provided,67,80,67,73,76,72,79,FAIL
+male,group C,bachelor's degree,fluent,provided,71,83,71,77,74,74,68,PASS
+male,group C,bachelor's degree,fluent,none,85,97,85,91,88,83,86,PASS
+male,group C,bachelor's degree,intermediate,none,47,59,47,53,53,56,47,FAIL
+other,group B,master's degree,fluent,none,93,104,93,99,97,95,93,PASS
+female,group A,master's degree,fluent,none,54,65,54,60,58,53,58,FAIL
+male,group C,master's degree,intermediate,provided,45,56,45,51,48,42,46,FAIL
+male,group A,master's degree,intermediate,none,73,85,73,79,76,74,72,PASS
+female,group D,master's degree,fluent,none,69,81,69,75,75,70,75,FAIL
+female,group E,master's degree,intermediate,none,64,76,64,70,70,72,65,FAIL
+female,group E,master's degree,fluent,none,66,78,66,72,71,68,68,FAIL
+other,group D,master's degree,fluent,,96,108,96,102,102,100,100,PASS
+male,group D,master's degree,fluent,none,79,100,79,85,82,82,74,PASS
+other,group D,master's degree,fluent,none,85,96,85,91,87,84,82,PASS
+male,group B,master's degree,intermediate,none,51,63,51,57,55,53,52,FAIL
+female,group E,master's degree,fluent,none,88,100,88,94,94,92,91,PASS
+female,group B,master's degree,intermediate,provided,71,83,71,77,78,76,78,FAIL
+female,group C,master's degree,fluent,provided,86,98,86,92,91,91,87,PASS
+female,group B,master's degree,intermediate,,41,52,41,47,40,70,,FAIL
+other,group C,master's degree,intermediate,provided,68,80,68,74,74,68,75,FAIL
+female,group C,,fluent,provided,79,91,79,85,86,84,85,PASS
+female,group E,master's degree,intermediate,none,52,64,52,58,57,56,54,FAIL
+male,group D,master's degree,fluent,none,77,89,77,83,80,80,72,PASS
+female,group C,master's degree,intermediate,provided,76,88,76,82,83,81,81,PASS
+female,group D,master's degree,fluent,provided,83,95,83,89,89,82,91,PASS
+male,group C,high school,intermediate,none,47,59,47,53,53,56,47,FAIL
+female,group B,high school,intermediate,none,81,93,81,87,86,85,82,PASS
+male,group A,some college,intermediate,none,58,70,58,64,62,60,57,FAIL
+female,group D,some high school,fluent,none,81,93,81,87,87,84,85,PASS
+male,group D,some college,fluent,provided,84,95,84,90,87,81,85,PASS
+female,group A,high school,fluent,provided,79,90,79,85,83,82,79,PASS
+male,group C,high school,fluent,provided,92,100,92,98,94,90,91,PASS
+male,group D,high school,fluent,none,61,72,61,67,62,58,57,PASS
+female,group D,some college,fluent,none,69,80,69,75,73,70,71,PASS
+male,group B,high school,fluent,none,81,93,81,87,84,82,80,PASS
+female,group A,some college,fluent,none,78,90,78,84,85,84,82,PASS
+female,group D,high school,fluent,provided,96,108,96,102,102,99,100,PASS
+female,group D,some college,fluent,provided,90,101,90,96,95,86,98,PASS
+male,group C,some college,intermediate,none,57,68,57,63,58,58,49,PASS
+male,group D,high school,fluent,provided,65,77,65,71,68,61,68,PASS
+female,group A,high school,fluent,none,54,65,54,60,58,53,58,FAIL
+female,group E,high school,intermediate,provided,73,85,73,79,78,74,78,PASS
+male,group C,high school,intermediate,none,63,74,63,69,67,66,61,FAIL
+female,group C,some college,fluent,none,63,75,63,69,69,69,65,FAIL
+female,group A,high school,intermediate,none,63,76,63,69,71,67,73,FAIL
+male,group A,some college,intermediate,provided,80,92,80,86,83,78,81,PASS
+male,group C,associate's degree,fluent,none,40,51,40,46,41,37,35,FAIL
+female,group A,some college,fluent,none,59,71,59,65,64,58,64,FAIL
