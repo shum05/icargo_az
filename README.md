@@ -47,7 +47,7 @@ Web Interface:
 Database: 
     MSSQL (for storing screening data)
 Deployment:
-    AWS- Docker and Kubernetes for containerization and orchestration.
+    Azure- Container Registery and WebApp for containerization and orchestration.
  
 
 ## Disclaimer:
@@ -56,13 +56,13 @@ This project is intended for demonstration purposes and as a proof-of-concept fo
 ## Azure WebApp Deploy't- icargoaz
 steps:
 1. create Az Container registery (icargoaz)and save 
-	Login server= icargoaz.azurecr.io
-	UN= icargoaz
-	pw= 3qxBheNN4deq9dH7Y6q9h3mDKvjuCFvlcb8ClFvHPQ+ACRAX5ktm
+	- Login server= icargoaz.azurecr.io
+	- UN= icargoaz
+	- pw= 3qxBheNN4deq9dH7Y6q9h3mDKvjuCFvlcb8ClFvHPQ+ACRAX5ktm
 2. Docker set up in local and push container registery
-	docker build -t icargoaz.azurecr.io/icargoaz:latest .
-	docker login icargoaz.azurecr.io ==> use the above un and pw in (1)
-	docker push icargoaz.azurecr.io/icargoaz:latest
+	- docker build -t icargoaz.azurecr.io/icargoaz:latest .
+	- docker login icargoaz.azurecr.io ==> use the above un and pw in (1)
+	- docker push icargoaz.azurecr.io/icargoaz:latest
 3. create Az webapp with the container and use the image built in (2)
 	
 4. conf github deploy't center
