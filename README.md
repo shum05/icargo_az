@@ -53,3 +53,18 @@ Deployment:
 ## Disclaimer:
 This project is intended for demonstration purposes and as a proof-of-concept for cargo screening certification automation. It is not intended for real-world cargo security applications without appropriate validation and certification.
 
+## Azure WebApp Deploy't- icargoaz
+steps:
+1. create Az Container registery (icargoaz)and save 
+	Login server= icargoaz.azurecr.io
+	UN= icargoaz
+	pw= 3qxBheNN4deq9dH7Y6q9h3mDKvjuCFvlcb8ClFvHPQ+ACRAX5ktm
+2. Docker set up in local and push container registery
+	docker build -t icargoaz.azurecr.io/icargoaz:latest .
+	docker login icargoaz.azurecr.io ==> use the above un and pw in (1)
+	docker push icargoaz.azurecr.io/icargoaz:latest
+3. create Az webapp with the container and use the image built in (2)
+	
+4. conf github deploy't center
+	once webapp is created, go to Deployment center tab of the webapp and turn on continuous deploy't radio btn, choose Github Actions:... radio btn ...
+	save the conf and go to Github Actions tab to see the deploy't progress
